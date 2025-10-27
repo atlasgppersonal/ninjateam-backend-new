@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "@types/node": "^24.3.1",
+    "@types/uuid": "^10.0.0",
+    "typescript": "^5.9.2"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "tsconfig-paths": "^4.2.0",
+    "uuid": "^11.1.0"
+  },
+  "scripts": {
+    "build": "npm --prefix functions run build"
+  }
+}

@@ -1,0 +1,150 @@
+# Serpstat Keyword Arbitrage Strategy - Implementation Guide (Hybrid API Version)
+
+This document outlines the step-by-step process for building a script that identifies high-opportunity keywords. This definitive version uses a hybrid approach, leveraging Serper for live SERP data and Serpstat for authority metrics, while respecting API rate limits.
+
+## Phase 0: Initialization
+
+*   **Inputs:** `category`, `location`, `search_engine`
+*   **Seed Keywords:** e.g., `["plumbing orlando", "orlando plumber"]`
+*   **API Clients:** Initialize both your Serpstat client and your Serper client/headers.
+*   **Data Stores:** `keyword_universe` (Set), `final_results` (Array)
+
+---
+
+## Phase 1: Keyword Universe Expansion
+
+**Goal:** Generate a large, unique list of potential keywords from the initial seeds.
+
+### Step 1.1: Get Search Suggestions (Serpstat)
+*   **Action:** For each seed keyword, call `SerpstatKeywordProcedure.getSuggestions`.
+*   **State Transformation:** Add all resulting `keyword` strings to the `keyword_universe` Set.
+
+### Step 1.2: Get Related Keywords (Serpstat)
+*   **Action:** For each seed keyword, call `SerpstatKeywordProcedure.getRelatedKeywords`.
+*   **State Transformation:** Add all resulting `keyword` strings to the `keyword_universe` Set.
+
+**End of Phase 1:** `keyword_universe` contains a comprehensive list of candidate keywords.
+
+---
+
+## Phase 2: Enrichment and Initial Filtering
+
+**Goal:** Enrich keywords with core metrics and apply broad filters.
+
+### Step 2.1: Get Keywords Info (Serpstat)
+*   **Action:** Batch process the `keyword_universe` array with `SerpstatKeywordProcedure.getKeywordsInfo`.
+*   **Filtering Logic:**
+    1.  Create a new `promising_keywords` array.
+    2.  For each keyword from the response, keep it only if it meets these conditions:
+        *   `region_queries_count >= 20`
+        *   The `intents` array exists and `(intents.includes("C") || intents.includes("T"))`
+
+---
+
+## **Phase 2.5: Pre-Qualification Ranking and Selection**
+
+**Goal:** Rank the `promising_keywords` to identify the top candidates for deep analysis.
+
+### Step 2.5.1: Calculate Pre-Qualification Score
+*   **Action:** For each keyword in `promising_keywords`, calculate a `preQualScore`.
+*   **Refined Formula:**
+    ```javascript
+    const volumeScore = Math.log10(item.region_queries_count);
+    const safeCost = item.cost > 0 ? item.cost : 0.1;
+    const safeDifficulty = (item.difficulty === null || item.difficulty === 0) ? 1 : item.difficulty;
+    const preQualScore = (volumeScore * safeCost) / safeDifficulty;
+    ```
+*   **State Transformation:** Add the `preQualScore` to each object in `promising_keywords`.
+
+### Step 2.5.2: Sort and Select Top Candidates
+*   **Action:**
+    1.  Sort `promising_keywords` in descending order by `preQualScore`.
+    2.  Create `high_potential_keywords` by slicing the top 20 results.
+
+**End of Phase 2.5:** You have a small, highly-qualified list of 20 keywords ready for deep analysis.
+
+---
+
+## **Phase 3: Deep Analysis and Final Validation (Hybrid API Approach)**
+
+**Goal:** To perform deep analysis on the top 20 candidates, validate their potential, and reject unsuitable ones, while respecting API rate limits.
+
+### Step 3.1: Loop and Analyze with Delays
+*   **Action:** Create a new empty array called `validated_keywords`. Loop through each of the 20 keywords in `high_potential_keywords`. **Crucially, you must introduce a 1-second delay between each iteration of this loop to respect the rate limits of both APIs.**
+
+    ```javascript
+    // Pseudocode for the loop
+    for (const keywordObject of high_potential_keywords) {
+      // Perform all actions for one keyword inside this loop
+
+      // ... Step 3.2 (Serper Call) ...
+      // ... Step 3.3 (Serpstat Call) ...
+      // ... Step 3.4 (Serpstat Call) ...
+      // ... Step 3.5 (Validation Logic) ...
+
+      // Wait for 1 second before processing the next keyword
+      await new Promise(resolve => setTimeout(resolve, 1000));
+    }
+    ```
+
+### Step 3.2: Get SERP Snapshot (Serper)
+*   **Action:** Inside the loop, for the current keyword, make an API call to Serper.
+*   **API Endpoint:** `https://google.serper.dev/search` (Note: Your script used `/maps`, but for organic results, you need `/search`.)
+*   **Request Body (Example):**
+    ```json
+    {
+      "q": "emergency plumber orlando"
+    }
+    ```
+*   **Data to Capture:**
+    *   From the `organic` array, create a list of the top 10 `domain` names.
+    *   From the `organic` array, create a list of the top 10 `link` URLs.
+    *   The entire `peopleAlsoAsk` array.
+
+### Step 3.3: Enrich Competitors with Authority Metrics (Serpstat)
+*   **Action:** Inside the loop, using the list of 10 domains from Serper, make a batched API call to Serpstat.
+*   **API Endpoint:** `SerpstatDomainProcedure.getDomainsInfo`
+*   **Data to Capture & Calculate:**
+    *   Calculate the **`average_visibility_top_10`** by averaging the `visible` score of all returned competitors.
+    *   Count the **`mega_site_score`** (number of predefined mega-sites in the top 5).
+
+### Step 3.4: Analyze Ad Pressure (Serpstat)
+*   **Action:** Inside the loop, make a call to `SerpstatKeywordProcedure.getAdsCompetitors`.
+*   **Data to Capture & Calculate:** Count the number of unique domains to get the `ad_competitors_count`.
+
+### Step 3.5: The Final Rejection Filter
+*   **Action:** Inside the loop, apply the rejection rules to the current keyword.
+*   **Filtering Logic:**
+    *   **Reject if:** `average_visibility_top_10 > 1000` (Tune this threshold as needed).
+    *   **Reject if:** `mega_site_score >= 3`.
+    *   **Reject if:** `ad_competitors_count >= 4`.
+*   **State Transformation:** If the keyword passes, add its fully enriched object to the `validated_keywords` array.
+
+**End of Phase 3:** The `validated_keywords` array contains the final list of fully vetted opportunities.
+
+---
+
+## **Phase 4 & 5: Blueprint Creation and Iteration Logic**
+
+**Goal:** To group the validated keywords into content clusters and define the final output.
+
+### Step 4.1: Calculate Final Arbitrage Score
+*   **Action:** For each keyword in `validated_keywords`, calculate the final `arbitrage_score`.
+*   **Formula:** `Score = ((Volume * 0.4) + (CPC * 0.1)) - ((Difficulty * 0.2) + (Avg_SDR * 0.15) + (MegaSite_Score * 0.05) + (SERP_Feature_Count * 0.05) + (Ad_Competitors * 0.05))` (Note: Use `average_visibility` as a proxy for `Avg_SDR`).
+
+### Step 5.1: Group Keywords and Build Content Blueprint
+*   **Action:**
+    1.  Create an empty `content_plan` array.
+    2.  Sort `validated_keywords` by `arbitrage_score` (descending).
+    3.  Group the keywords thematically into clusters.
+    4.  For each cluster, structure it into the **Content Blueprint JSON format**, populating `questions_to_answer` from the Serper data and `competitor_urls_to_analyze` from the Serper data.
+
+### Step 5.2: Iteration Logic (Retries)
+*   **Action:** Check if `content_plan.length` meets your target (e.g., 5).
+*   **Logic:** If not, take the next slice of 20 keywords from `promising_keywords` and re-run Phase 3.
+
+---
+
+## Final Output Specification
+
+(The detailed JSON structure for the Content Blueprint remains the same as defined previously.)

@@ -1,0 +1,5139 @@
+{
+  "id": "1",
+  "result": {
+    "data": [
+      {
+        "region_queries_count": 10,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 14,
+        "keyword": "sr plumbing orlando fl",
+        "found_results": 39,
+        "types": [],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "facebook",
+          " yelp",
+          " linkedin"
+        ],
+        "right_spelling": null,
+        "difficulty": 1,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 1,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4,
+        "intents": [
+          "I"
+        ]
+      },
+      {
+        "region_queries_count": 10,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 0,
+        "keyword": "orlando plumbers directory",
+        "found_results": 7750000,
+        "types": [],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "youtube",
+          " yelp",
+          " amazon",
+          " linkedin"
+        ],
+        "right_spelling": null,
+        "difficulty": 1,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 3,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "intents": [
+          "I"
+        ]
+      },
+      {
+        "region_queries_count": 90,
+        "region_queries_count_wide": 0,
+        "cost": 3.8,
+        "concurrency": 14,
+        "keyword": "all about plumbing of orlando",
+        "found_results": 17400000,
+        "types": [
+          "pic",
+          "kn_graph_local",
+          "also_asks",
+          "related_search"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "yelp",
+          "facebook",
+          "linkedin",
+          "reddit"
+        ],
+        "right_spelling": null,
+        "difficulty": 2,
+        "lang": "en",
+        "suggestions_count": 0,
+        "keywords_count": 1,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 5,
+        "also_asks": [],
+        "intents": [
+          "N"
+        ]
+      },
+      {
+        "region_queries_count": 390,
+        "region_queries_count_wide": 0,
+        "cost": 11.35,
+        "concurrency": 76,
+        "keyword": "plumbing companies in orlando fl",
+        "found_results": 294,
+        "types": [
+          "local_pack",
+          "also_asks",
+          "related_search",
+          "pic"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "facebook",
+          "reddit",
+          "yelp"
+        ],
+        "right_spelling": null,
+        "difficulty": 39,
+        "lang": "en",
+        "suggestions_count": 2,
+        "keywords_count": 4,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 5,
+        "also_asks": [],
+        "intents": [
+          "C",
+          "N"
+        ]
+      },
+      {
+        "region_queries_count": 10,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 0,
+        "keyword": "klm plumbing orlando",
+        "found_results": 0,
+        "types": [],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [],
+        "right_spelling": null,
+        "difficulty": 1,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 2,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "intents": [
+          "I"
+        ]
+      },
+      {
+        "region_queries_count": 50,
+        "region_queries_count_wide": 0,
+        "cost": 4.53,
+        "concurrency": 74,
+        "keyword": "major plumbing companies",
+        "found_results": 198,
+        "types": [
+          "related_search",
+          "also_asks",
+          "local_pack"
+        ],
+        "geo_names": [],
+        "social_domains": [
+          "facebook",
+          "wikipedia",
+          "instagram",
+          "reddit",
+          "youtube",
+          "yelp"
+        ],
+        "right_spelling": null,
+        "difficulty": 7,
+        "lang": "en",
+        "suggestions_count": 3,
+        "keywords_count": 6,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "also_asks": [
+          "what is the biggest plumbing company",
+          "how many plumbing companies are there in the us",
+          "which are the best company for plumbing",
+          "who is the most popular plumber"
+        ],
+        "intents": [
+          "C",
+          "N"
+        ]
+      },
+      {
+        "region_queries_count": 260,
+        "region_queries_count_wide": 0,
+        "cost": 3.16,
+        "concurrency": 39,
+        "keyword": "ferguson plumbing orlando fl",
+        "found_results": 55,
+        "types": [
+          "local_pack",
+          "also_asks",
+          "related_search",
+          "pic"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "wikipedia",
+          "foursquare",
+          "yelp"
+        ],
+        "right_spelling": null,
+        "difficulty": null,
+        "lang": "en",
+        "suggestions_count": 3,
+        "keywords_count": 3,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 4400,
+        "region_queries_count_wide": 0,
+        "cost": 20.12,
+        "concurrency": 55,
+        "keyword": "plumber orlando florida",
+        "found_results": 198,
+        "types": [
+          "local_pack",
+          "related_search"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "youtube",
+          "yelp",
+          "reddit",
+          "linkedin",
+          "facebook"
+        ],
+        "right_spelling": null,
+        "difficulty": 39,
+        "lang": "en",
+        "suggestions_count": 30,
+        "keywords_count": 88,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 320,
+        "region_queries_count_wide": 0,
+        "cost": 4.01,
+        "concurrency": 13,
+        "keyword": "plumbing companies in florida",
+        "found_results": 294,
+        "types": [
+          "local_pack",
+          "pic",
+          "related_search",
+          "ads_bot"
+        ],
+        "geo_names": [
+          "florida"
+        ],
+        "social_domains": [
+          "reddit",
+          "yelp",
+          "youtube",
+          "facebook"
+        ],
+        "right_spelling": null,
+        "difficulty": 16,
+        "lang": "en",
+        "suggestions_count": 21,
+        "keywords_count": 38,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4,
+        "also_asks": [
+          "who is the most popular plumber",
+          "how do i find the best plumbing company",
+          "who is the biggest plumbing company",
+          "how much do plumbers charge in florida"
+        ],
+        "intents": [
+          "C",
+          "N"
+        ]
+      },
+      {
+        "region_queries_count": 1,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 0,
+        "keyword": "plumber orlando area",
+        "found_results": 0,
+        "types": [],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [],
+        "right_spelling": null,
+        "difficulty": 1,
+        "lang": "en",
+        "suggestions_count": 2,
+        "keywords_count": 12,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3
+      },
+      {
+        "region_queries_count": 10,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 29,
+        "keyword": "orlando plumbing kalamazoo",
+        "found_results": 0,
+        "types": [],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [],
+        "right_spelling": null,
+        "difficulty": 1,
+        "lang": "en",
+        "suggestions_count": 2,
+        "keywords_count": 3,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "intents": [
+          "I"
+        ]
+      },
+      {
+        "region_queries_count": 90,
+        "region_queries_count_wide": 0,
+        "cost": 6.07,
+        "concurrency": 75,
+        "keyword": "frank gay plumbing orlando fl",
+        "found_results": 204000,
+        "types": [
+          "related_search",
+          "also_asks",
+          "pic",
+          "local_pack"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "foursquare",
+          "facebook",
+          "youtube",
+          "instagram",
+          "reddit",
+          "linkedin",
+          "yelp"
+        ],
+        "right_spelling": null,
+        "difficulty": 17,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 2,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 5,
+        "intents": [
+          "C",
+          "N"
+        ]
+      },
+      {
+        "region_queries_count": 590,
+        "region_queries_count_wide": 0,
+        "cost": 4.12,
+        "concurrency": 19,
+        "keyword": "plumbing florida",
+        "found_results": 297,
+        "types": [
+          "related_search",
+          "local_pack",
+          "also_asks"
+        ],
+        "geo_names": [
+          "florida"
+        ],
+        "social_domains": [
+          "yelp",
+          "youtube",
+          "reddit",
+          "facebook"
+        ],
+        "right_spelling": null,
+        "difficulty": 18,
+        "lang": "en",
+        "suggestions_count": 974,
+        "keywords_count": 3933,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 2,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 1,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 0,
+        "keyword": "east orlando plumber",
+        "found_results": 0,
+        "types": [],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [],
+        "right_spelling": null,
+        "difficulty": 1,
+        "lang": "en",
+        "suggestions_count": 3,
+        "keywords_count": 6,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3
+      },
+      {
+        "region_queries_count": 260,
+        "region_queries_count_wide": 0,
+        "cost": 11.76,
+        "concurrency": 59,
+        "keyword": "plumbing services in orlando fl",
+        "found_results": 6490000,
+        "types": [
+          "also_asks",
+          "local_pack",
+          "related_search"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "yelp",
+          "reddit",
+          "facebook"
+        ],
+        "right_spelling": null,
+        "difficulty": 39,
+        "lang": "en",
+        "suggestions_count": 0,
+        "keywords_count": 1,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 5,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 1,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 0,
+        "keyword": "best plumbers in orlando fl",
+        "found_results": 0,
+        "types": [],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [],
+        "right_spelling": null,
+        "difficulty": 3,
+        "lang": "en",
+        "suggestions_count": 2,
+        "keywords_count": 3,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 5,
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 20,
+        "region_queries_count_wide": 0,
+        "cost": 4.26,
+        "concurrency": 21,
+        "keyword": "rainaldi plumbing orlando florida",
+        "found_results": 91,
+        "types": [
+          "also_asks",
+          "kn_graph_local",
+          "related_search",
+          "pic"
+        ],
+        "geo_names": [
+          "orlando",
+          "florida"
+        ],
+        "social_domains": [
+          "facebook",
+          "youtube",
+          "linkedin",
+          "yelp",
+          "reddit"
+        ],
+        "right_spelling": null,
+        "difficulty": 6,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 1,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4,
+        "intents": [
+          "N"
+        ]
+      },
+      {
+        "region_queries_count": 10,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 48,
+        "keyword": "tharp plumbing orlando",
+        "found_results": 0,
+        "types": [],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [],
+        "right_spelling": null,
+        "difficulty": 1,
+        "lang": "en",
+        "suggestions_count": 3,
+        "keywords_count": 7,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "intents": [
+          "I"
+        ]
+      },
+      {
+        "region_queries_count": 1,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 0,
+        "keyword": "top rated plumbers in orlando",
+        "found_results": 0,
+        "types": [],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [],
+        "right_spelling": null,
+        "difficulty": 2,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 1,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 5
+      },
+      {
+        "region_queries_count": 170,
+        "region_queries_count_wide": 0,
+        "cost": 8.775,
+        "concurrency": 21,
+        "keyword": "f l plumbing",
+        "found_results": 43400000,
+        "types": [
+          "video",
+          "related_search",
+          "local_pack",
+          "also_asks"
+        ],
+        "geo_names": [],
+        "social_domains": [
+          "facebook",
+          "yelp"
+        ],
+        "right_spelling": null,
+        "difficulty": 13,
+        "lang": "en",
+        "suggestions_count": 7,
+        "keywords_count": 22,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "also_asks": [
+          "what type of pipes are used in new homes in florida",
+          "how much do plumbers charge in florida",
+          "is pex piping legal in florida",
+          "can a homeowner do their own plumbing work in florida"
+        ],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 320,
+        "region_queries_count_wide": 0,
+        "cost": 4.01,
+        "concurrency": 13,
+        "keyword": "florida plumbing companies",
+        "found_results": 396,
+        "types": [
+          "also_asks",
+          "related_search",
+          "local_pack"
+        ],
+        "geo_names": [
+          "florida"
+        ],
+        "social_domains": [
+          "facebook",
+          "yelp",
+          "reddit"
+        ],
+        "right_spelling": null,
+        "difficulty": 9,
+        "lang": "en",
+        "suggestions_count": 27,
+        "keywords_count": 86,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "intents": [
+          "C",
+          "N"
+        ]
+      },
+      {
+        "region_queries_count": 260,
+        "region_queries_count_wide": 0,
+        "cost": 33.28695829788465,
+        "concurrency": 57,
+        "keyword": "plumbing service orlando",
+        "found_results": 297,
+        "types": [
+          "also_asks",
+          "local_pack",
+          "related_search"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "facebook",
+          "reddit",
+          "yelp"
+        ],
+        "right_spelling": null,
+        "difficulty": 39,
+        "lang": "en",
+        "suggestions_count": 18,
+        "keywords_count": 29,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 30,
+        "region_queries_count_wide": 0,
+        "cost": 5.47,
+        "concurrency": 31,
+        "keyword": "jims plumbing orlando",
+        "found_results": 0,
+        "types": [
+          "ads_bot"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "twitter",
+          "linkedin",
+          "yelp",
+          "reddit",
+          "youtube",
+          "wikipedia",
+          "foursquare",
+          "facebook"
+        ],
+        "right_spelling": "jim's plumbing orlando",
+        "difficulty": 1,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 2,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 1,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 0,
+        "keyword": "craigslist orlando plumber",
+        "found_results": 0,
+        "types": [],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [],
+        "right_spelling": null,
+        "difficulty": 1,
+        "lang": "en",
+        "suggestions_count": 4,
+        "keywords_count": 10,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "intents": [
+          "I"
+        ]
+      },
+      {
+        "region_queries_count": 1,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 0,
+        "keyword": "craigslist orlando plumbing tools",
+        "found_results": 0,
+        "types": [],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [],
+        "right_spelling": null,
+        "difficulty": 1,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 1,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4,
+        "intents": [
+          "I"
+        ]
+      },
+      {
+        "region_queries_count": 390,
+        "region_queries_count_wide": 0,
+        "cost": 11.35,
+        "concurrency": 76,
+        "keyword": "plumbing companies in orlando",
+        "found_results": 294,
+        "types": [
+          "local_pack",
+          "related_search",
+          "pic"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "facebook",
+          "yelp",
+          "reddit"
+        ],
+        "right_spelling": null,
+        "difficulty": 38,
+        "lang": "en",
+        "suggestions_count": 4,
+        "keywords_count": 10,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4,
+        "also_asks": [],
+        "intents": [
+          "C",
+          "N"
+        ]
+      },
+      {
+        "region_queries_count": 320,
+        "region_queries_count_wide": 0,
+        "cost": 29.44,
+        "concurrency": 86,
+        "keyword": "emergency plumber orlando",
+        "found_results": 18,
+        "types": [
+          "also_asks",
+          "ads_top",
+          "local_pack",
+          "related_search"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "yelp"
+        ],
+        "right_spelling": null,
+        "difficulty": 25,
+        "lang": "en",
+        "suggestions_count": 3,
+        "keywords_count": 10,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 1,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 0,
+        "keyword": "shamrock plumbing orlando florida",
+        "found_results": 0,
+        "types": [],
+        "geo_names": [
+          "florida",
+          "orlando"
+        ],
+        "social_domains": [],
+        "right_spelling": null,
+        "difficulty": 1,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 1,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4
+      },
+      {
+        "region_queries_count": 30,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 62,
+        "keyword": "best plumbers in orlando",
+        "found_results": 13200000,
+        "types": [
+          "related_search",
+          "also_asks",
+          "local_pack"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "facebook",
+          "reddit",
+          "yelp",
+          "youtube",
+          "instagram"
+        ],
+        "right_spelling": null,
+        "difficulty": 28,
+        "lang": "en",
+        "suggestions_count": 5,
+        "keywords_count": 9,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 50,
+        "region_queries_count_wide": 0,
+        "cost": 7.03,
+        "concurrency": 38,
+        "keyword": "herrell plumbing orlando",
+        "found_results": 36,
+        "types": [
+          "kn_graph_local",
+          "related_search",
+          "pic"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "linkedin",
+          "instagram",
+          "yelp",
+          "facebook",
+          "twitter",
+          "youtube"
+        ],
+        "right_spelling": null,
+        "difficulty": null,
+        "lang": "en",
+        "suggestions_count": 3,
+        "keywords_count": 8,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "also_asks": [],
+        "intents": [
+          "N"
+        ]
+      },
+      {
+        "region_queries_count": 140,
+        "region_queries_count_wide": 0,
+        "cost": 16.76,
+        "concurrency": 74,
+        "keyword": "best plumbing orlando",
+        "found_results": 10700000,
+        "types": [
+          "also_asks",
+          "local_pack",
+          "related_search"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "linkedin",
+          "yelp",
+          "youtube",
+          "reddit",
+          "facebook"
+        ],
+        "right_spelling": null,
+        "difficulty": null,
+        "lang": "en",
+        "suggestions_count": 6,
+        "keywords_count": 15,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 590,
+        "region_queries_count_wide": 0,
+        "cost": 4.12,
+        "concurrency": 19,
+        "keyword": "plumber florida",
+        "found_results": 297,
+        "types": [
+          "ads_bot",
+          "related_search",
+          "ads_top",
+          "local_pack"
+        ],
+        "geo_names": [
+          "florida"
+        ],
+        "social_domains": [
+          "yelp",
+          "facebook",
+          "youtube",
+          "reddit"
+        ],
+        "right_spelling": null,
+        "difficulty": 13,
+        "lang": "en",
+        "suggestions_count": 975,
+        "keywords_count": 3933,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 2,
+        "also_asks": [
+          "how much money do plumbers make in florida",
+          "do plumbers have to be licensed in florida",
+          "how do i become a plumber in florida",
+          "how long does it take to become a licensed plumber in florida"
+        ],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 480,
+        "region_queries_count_wide": 0,
+        "cost": 29.999999999999996,
+        "concurrency": 49,
+        "keyword": "orlando emergency plumbers",
+        "found_results": 297,
+        "types": [
+          "related_search",
+          "local_pack",
+          "also_asks"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "youtube",
+          "reddit",
+          "facebook",
+          "yelp"
+        ],
+        "right_spelling": null,
+        "difficulty": 12,
+        "lang": "en",
+        "suggestions_count": 3,
+        "keywords_count": 10,
+        "region_queries_count_last": 0,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 1,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 0,
+        "keyword": "plumbing companies hiring in orlando fl",
+        "found_results": 0,
+        "types": [],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [],
+        "right_spelling": null,
+        "difficulty": 1,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 1,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 6
+      },
+      {
+        "region_queries_count": 1,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 0,
+        "keyword": "best plumber in orlando fl",
+        "found_results": 0,
+        "types": [],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [],
+        "right_spelling": null,
+        "difficulty": 3,
+        "lang": "en",
+        "suggestions_count": 2,
+        "keywords_count": 3,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 5,
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 110,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 1,
+        "keyword": "orlando plumbing repair",
+        "found_results": 6410000,
+        "types": [
+          "related_search",
+          "local_pack"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "yelp",
+          "facebook",
+          "reddit"
+        ],
+        "right_spelling": null,
+        "difficulty": 38,
+        "lang": "en",
+        "suggestions_count": 2,
+        "keywords_count": 8,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 10,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 7,
+        "keyword": "orlando plumbing contractor",
+        "found_results": 2090000,
+        "types": [
+          "local_pack",
+          "related_search"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "yelp"
+        ],
+        "right_spelling": null,
+        "difficulty": 39,
+        "lang": "en",
+        "suggestions_count": 5,
+        "keywords_count": 17,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 390,
+        "region_queries_count_wide": 0,
+        "cost": 24.1,
+        "concurrency": 80,
+        "keyword": "apopka plumbing",
+        "found_results": 196,
+        "types": [
+          "related_search",
+          "local_pack",
+          "pic"
+        ],
+        "geo_names": [],
+        "social_domains": [
+          "facebook",
+          "youtube",
+          "reddit",
+          "yelp"
+        ],
+        "right_spelling": null,
+        "difficulty": 19,
+        "lang": "en",
+        "suggestions_count": 16,
+        "keywords_count": 61,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 2,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 210,
+        "region_queries_count_wide": 0,
+        "cost": 7.29,
+        "concurrency": 68,
+        "keyword": "commercial plumbers orlando",
+        "found_results": 198,
+        "types": [
+          "related_search",
+          "local_pack"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "linkedin",
+          "yelp",
+          "youtube"
+        ],
+        "right_spelling": null,
+        "difficulty": 9,
+        "lang": "en",
+        "suggestions_count": 8,
+        "keywords_count": 11,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 390,
+        "region_queries_count_wide": 0,
+        "cost": 11.35,
+        "concurrency": 76,
+        "keyword": "plumbing companies orlando fl",
+        "found_results": 294,
+        "types": [
+          "also_asks",
+          "pic",
+          "related_search",
+          "local_pack"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "yelp",
+          "facebook",
+          "reddit"
+        ],
+        "right_spelling": null,
+        "difficulty": 39,
+        "lang": "en",
+        "suggestions_count": 4,
+        "keywords_count": 8,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4,
+        "also_asks": [],
+        "intents": [
+          "C",
+          "N"
+        ]
+      },
+      {
+        "region_queries_count": 4400,
+        "region_queries_count_wide": 0,
+        "cost": 20.11311996193127,
+        "concurrency": 55,
+        "keyword": "plumber in orlando",
+        "found_results": 198,
+        "types": [
+          "also_asks",
+          "related_search",
+          "local_pack"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "reddit",
+          "instagram",
+          "yelp",
+          "facebook",
+          "youtube"
+        ],
+        "right_spelling": null,
+        "difficulty": 38,
+        "lang": "en",
+        "suggestions_count": 28,
+        "keywords_count": 91,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "also_asks": [
+          "how much do plumbers charge in florida",
+          "how do i find a good local plumber",
+          "are plumbers in demand in florida"
+        ],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 1,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 0,
+        "keyword": "progressive plumbing services orlando",
+        "found_results": 0,
+        "types": [],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [],
+        "right_spelling": null,
+        "difficulty": 1,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 1,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4
+      },
+      {
+        "region_queries_count": 1,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 0,
+        "keyword": "orlando plumbing code",
+        "found_results": 0,
+        "types": [],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [],
+        "right_spelling": null,
+        "difficulty": 1,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 2,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3
+      },
+      {
+        "region_queries_count": 260,
+        "region_queries_count_wide": 90,
+        "cost": 4.179999,
+        "concurrency": 29,
+        "keyword": "florida plumbing company",
+        "found_results": 495,
+        "types": [
+          "local_pack",
+          "also_asks",
+          "related_search"
+        ],
+        "geo_names": [
+          "florida"
+        ],
+        "social_domains": [
+          "facebook",
+          "reddit",
+          "yelp"
+        ],
+        "right_spelling": null,
+        "difficulty": 4,
+        "lang": "en",
+        "suggestions_count": 27,
+        "keywords_count": 86,
+        "region_queries_count_last": 90,
+        "keyword_length": 3,
+        "intents": [
+          "C",
+          "N"
+        ]
+      },
+      {
+        "region_queries_count": 10,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 43,
+        "keyword": "catapano plumbing orlando fl",
+        "found_results": 67200,
+        "types": [],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "linkedin",
+          " facebook"
+        ],
+        "right_spelling": null,
+        "difficulty": 1,
+        "lang": "en",
+        "suggestions_count": 2,
+        "keywords_count": 2,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4,
+        "intents": [
+          "I"
+        ]
+      },
+      {
+        "region_queries_count": 90,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 11,
+        "keyword": "plumbing repair orlando",
+        "found_results": 5890000,
+        "types": [
+          "local_pack",
+          "related_search"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "reddit",
+          "yelp",
+          "facebook"
+        ],
+        "right_spelling": null,
+        "difficulty": 33,
+        "lang": "en",
+        "suggestions_count": 2,
+        "keywords_count": 8,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 4400,
+        "region_queries_count_wide": 0,
+        "cost": 20.12,
+        "concurrency": 55,
+        "keyword": "plumber in orlando florida",
+        "found_results": 297,
+        "types": [
+          "also_asks",
+          "related_search",
+          "local_pack"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "yelp",
+          "facebook",
+          "linkedin",
+          "reddit"
+        ],
+        "right_spelling": null,
+        "difficulty": 39,
+        "lang": "en",
+        "suggestions_count": 5,
+        "keywords_count": 13,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4,
+        "also_asks": [
+          "how do i find a reputable plumber in my area",
+          "what is the going rate for a plumber in florida",
+          "do you need a plumbing license to clean drains in florida",
+          "what is the hourly rate for a plumber in south florida"
+        ],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 10,
+        "region_queries_count_wide": 0,
+        "cost": 3.9199999999999995,
+        "concurrency": 20,
+        "keyword": "tharp plumbing systems orlando fl",
+        "found_results": 0,
+        "types": [],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [],
+        "right_spelling": null,
+        "difficulty": null,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 2,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 5,
+        "intents": [
+          "I"
+        ]
+      },
+      {
+        "region_queries_count": 10,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 0,
+        "keyword": "dragon plumbing orlando",
+        "found_results": 0,
+        "types": [],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [],
+        "right_spelling": null,
+        "difficulty": 1,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 2,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "intents": [
+          "I"
+        ]
+      },
+      {
+        "region_queries_count": 210,
+        "region_queries_count_wide": 0,
+        "cost": 26.839999999999996,
+        "concurrency": 72,
+        "keyword": "altamonte springs plumber",
+        "found_results": 196,
+        "types": [
+          "pic",
+          "also_asks",
+          "local_pack",
+          "related_search"
+        ],
+        "geo_names": [],
+        "social_domains": [
+          "facebook",
+          "youtube",
+          "linkedin",
+          "yelp"
+        ],
+        "right_spelling": null,
+        "difficulty": 5,
+        "lang": "de",
+        "suggestions_count": 1,
+        "keywords_count": 16,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 260,
+        "region_queries_count_wide": 0,
+        "cost": 10.3,
+        "concurrency": 47,
+        "keyword": "plumbing services orlando",
+        "found_results": 196,
+        "types": [
+          "related_search",
+          "local_pack",
+          "pic"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "yelp",
+          "facebook",
+          "youtube",
+          "reddit"
+        ],
+        "right_spelling": null,
+        "difficulty": 38,
+        "lang": "en",
+        "suggestions_count": 18,
+        "keywords_count": 29,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 1,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 0,
+        "keyword": "24 hour emergency plumber orlando",
+        "found_results": 0,
+        "types": [],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [],
+        "right_spelling": null,
+        "difficulty": 6,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 1,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 5,
+        "intents": [
+          "I"
+        ]
+      },
+      {
+        "region_queries_count": 20,
+        "region_queries_count_wide": 0,
+        "cost": 5.67,
+        "concurrency": 29,
+        "keyword": "mercury plumbing orlando fl",
+        "found_results": 74,
+        "types": [
+          "kn_graph_local",
+          "related_search"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "yelp",
+          "reddit",
+          "linkedin",
+          "facebook"
+        ],
+        "right_spelling": null,
+        "difficulty": 4,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 1,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4,
+        "intents": [
+          "N"
+        ]
+      },
+      {
+        "region_queries_count": 50,
+        "region_queries_count_wide": 0,
+        "cost": 33.39,
+        "concurrency": 76,
+        "keyword": "24 hour plumber orlando",
+        "found_results": 554000,
+        "types": [
+          "also_asks",
+          "related_search",
+          "local_pack"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "facebook",
+          "youtube",
+          "yelp",
+          "reddit"
+        ],
+        "right_spelling": null,
+        "difficulty": 31.45,
+        "lang": "en",
+        "suggestions_count": 3,
+        "keywords_count": 5,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4,
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 10,
+        "region_queries_count_wide": 0,
+        "cost": 9.21,
+        "concurrency": 99,
+        "keyword": "best plumber in orlando",
+        "found_results": 0,
+        "types": [],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "facebook",
+          "linkedin",
+          "reddit",
+          "yelp"
+        ],
+        "right_spelling": null,
+        "difficulty": 3,
+        "lang": "en",
+        "suggestions_count": 5,
+        "keywords_count": 9,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 480,
+        "region_queries_count_wide": 0,
+        "cost": 36.27,
+        "concurrency": 69,
+        "keyword": "emergency plumbers orlando",
+        "found_results": 294,
+        "types": [
+          "pic",
+          "related_search",
+          "local_pack",
+          "also_asks"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "facebook",
+          "reddit",
+          "yelp"
+        ],
+        "right_spelling": null,
+        "difficulty": 14,
+        "lang": "en",
+        "suggestions_count": 3,
+        "keywords_count": 10,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 20,
+        "region_queries_count_wide": 0,
+        "cost": 6.8974950757236195,
+        "concurrency": 34,
+        "keyword": "mercury plumbing orlando",
+        "found_results": 50,
+        "types": [
+          "related_search",
+          "pic",
+          "also_asks",
+          "kn_graph_local"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "yelp",
+          "reddit",
+          "linkedin",
+          "facebook"
+        ],
+        "right_spelling": null,
+        "difficulty": 4,
+        "lang": "en",
+        "suggestions_count": 4,
+        "keywords_count": 4,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "intents": [
+          "N"
+        ]
+      },
+      {
+        "region_queries_count": 10,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 4,
+        "keyword": "belzer plumbing orlando",
+        "found_results": 202000,
+        "types": [
+          "ads_top",
+          "ads_bot"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "facebook",
+          "linkedin",
+          "yelp",
+          "wikipedia"
+        ],
+        "right_spelling": null,
+        "difficulty": 1,
+        "lang": "en",
+        "suggestions_count": 2,
+        "keywords_count": 4,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 4400,
+        "region_queries_count_wide": 0,
+        "cost": 20.12,
+        "concurrency": 55,
+        "keyword": "plumbing in orlando florida",
+        "found_results": 297,
+        "types": [
+          "local_pack",
+          "related_search"
+        ],
+        "geo_names": [
+          "florida",
+          "orlando"
+        ],
+        "social_domains": [
+          "reddit",
+          "yelp",
+          "facebook",
+          "youtube"
+        ],
+        "right_spelling": null,
+        "difficulty": 35,
+        "lang": "en",
+        "suggestions_count": 5,
+        "keywords_count": 13,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 1,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 0,
+        "keyword": "mulvaney plumbing orlando",
+        "found_results": 0,
+        "types": [],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [],
+        "right_spelling": null,
+        "difficulty": 1,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 1,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3
+      },
+      {
+        "region_queries_count": 10,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 8,
+        "keyword": "commercial plumbing contractors orlando",
+        "found_results": 0,
+        "types": [],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [],
+        "right_spelling": null,
+        "difficulty": 1,
+        "lang": "en",
+        "suggestions_count": 2,
+        "keywords_count": 3,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4,
+        "intents": [
+          "I"
+        ]
+      },
+      {
+        "region_queries_count": 140,
+        "region_queries_count_wide": 0,
+        "cost": 5.58,
+        "concurrency": 23,
+        "keyword": "emerald plumbing orlando florida",
+        "found_results": 97,
+        "types": [
+          "ads_bot",
+          "kn_graph_local",
+          "pic",
+          "related_search"
+        ],
+        "geo_names": [
+          "florida",
+          "orlando"
+        ],
+        "social_domains": [
+          "yelp",
+          "reddit",
+          "facebook",
+          "instagram",
+          "linkedin",
+          "youtube"
+        ],
+        "right_spelling": null,
+        "difficulty": 4,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 1,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4,
+        "also_asks": [],
+        "intents": [
+          "C",
+          "N"
+        ]
+      },
+      {
+        "region_queries_count": 140,
+        "region_queries_count_wide": 0,
+        "cost": 5.58,
+        "concurrency": 23,
+        "keyword": "emerald plumbing orlando",
+        "found_results": 532000,
+        "types": [
+          "related_search",
+          "pic",
+          "kn_graph_local"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "linkedin",
+          "yelp",
+          "instagram",
+          "facebook",
+          "reddit",
+          "youtube"
+        ],
+        "right_spelling": null,
+        "difficulty": 6,
+        "lang": "en",
+        "suggestions_count": 2,
+        "keywords_count": 5,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "also_asks": [],
+        "intents": [
+          "N"
+        ]
+      },
+      {
+        "region_queries_count": 4400,
+        "region_queries_count_wide": 0,
+        "cost": 20.12,
+        "concurrency": 55,
+        "keyword": "plumbers orlando",
+        "found_results": 198,
+        "types": [
+          "related_search",
+          "local_pack"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "facebook",
+          "youtube",
+          "reddit",
+          "yelp"
+        ],
+        "right_spelling": null,
+        "difficulty": 39,
+        "lang": "en",
+        "suggestions_count": 214,
+        "keywords_count": 755,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 2,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 50,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 3,
+        "keyword": "plumbing contractors in orlando fl",
+        "found_results": 2680000,
+        "types": [
+          "related_search",
+          "also_asks",
+          "local_pack"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "reddit",
+          "yelp"
+        ],
+        "right_spelling": null,
+        "difficulty": 35,
+        "lang": "it",
+        "suggestions_count": 0,
+        "keywords_count": 1,
+        "keyword_length": 5,
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 90,
+        "region_queries_count_wide": 0,
+        "cost": 4.15,
+        "concurrency": 32,
+        "keyword": "shamrock plumbing orlando fl",
+        "found_results": 96,
+        "types": [
+          "related_search",
+          "kn_graph_local",
+          "pic"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "instagram",
+          "foursquare",
+          "linkedin",
+          "yelp",
+          "twitter",
+          "youtube",
+          "reddit",
+          "facebook"
+        ],
+        "right_spelling": null,
+        "difficulty": 3,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 1,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4,
+        "intents": [
+          "N"
+        ]
+      },
+      {
+        "region_queries_count": 30,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 62,
+        "keyword": "best orlando plumbers",
+        "found_results": 13700000,
+        "types": [
+          "also_asks",
+          "local_pack",
+          "related_search"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "facebook",
+          "youtube",
+          "yelp",
+          "reddit"
+        ],
+        "right_spelling": null,
+        "difficulty": 21,
+        "lang": "en",
+        "suggestions_count": 6,
+        "keywords_count": 15,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 170,
+        "region_queries_count_wide": 0,
+        "cost": 7.94,
+        "concurrency": 26,
+        "keyword": "fl plumbing",
+        "found_results": 495,
+        "types": [
+          "local_pack",
+          "also_asks",
+          "related_search"
+        ],
+        "geo_names": [],
+        "social_domains": [
+          "reddit",
+          "facebook",
+          "yelp"
+        ],
+        "right_spelling": null,
+        "difficulty": 17,
+        "lang": "en",
+        "suggestions_count": 1537,
+        "keywords_count": 5517,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 2,
+        "also_asks": [
+          "do you need a plumbing license to clean drains in florida",
+          "how do i get a plumbing license in florida",
+          "can a homeowner do their own plumbing work in florida",
+          "how much is plumbing school in florida"
+        ],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 390,
+        "region_queries_count_wide": 0,
+        "cost": 11.35,
+        "concurrency": 76,
+        "keyword": "plumbing company in orlando",
+        "found_results": 297,
+        "types": [
+          "also_asks",
+          "related_search",
+          "local_pack"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "reddit",
+          "facebook",
+          "yelp"
+        ],
+        "right_spelling": null,
+        "difficulty": 39,
+        "lang": "en",
+        "suggestions_count": 4,
+        "keywords_count": 10,
+        "region_queries_count_last": 0,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4,
+        "also_asks": [],
+        "intents": [
+          "C",
+          "N"
+        ]
+      },
+      {
+        "region_queries_count": 320,
+        "region_queries_count_wide": 0,
+        "cost": 1.64,
+        "concurrency": 33,
+        "keyword": "plumbing supply orlando",
+        "found_results": 93,
+        "types": [
+          "pic",
+          "related_search",
+          "local_pack"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "facebook",
+          "yelp"
+        ],
+        "right_spelling": null,
+        "difficulty": 15,
+        "lang": "en",
+        "suggestions_count": 22,
+        "keywords_count": 70,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 4400,
+        "region_queries_count_wide": 0,
+        "cost": 20.12,
+        "concurrency": 55,
+        "keyword": "plumbing in orlando fl",
+        "found_results": 297,
+        "types": [
+          "local_pack",
+          "related_search"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "yelp",
+          "reddit",
+          "facebook"
+        ],
+        "right_spelling": null,
+        "difficulty": 39,
+        "lang": "en",
+        "suggestions_count": 10,
+        "keywords_count": 29,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 4400,
+        "region_queries_count_wide": 0,
+        "cost": 20.12,
+        "concurrency": 55,
+        "keyword": "plumbers in orlando",
+        "found_results": 196,
+        "types": [
+          "also_asks",
+          "related_search",
+          "local_pack",
+          "pic"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "youtube",
+          "facebook",
+          "reddit",
+          "yelp"
+        ],
+        "right_spelling": null,
+        "difficulty": 35,
+        "lang": "en",
+        "suggestions_count": 28,
+        "keywords_count": 91,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 390,
+        "region_queries_count_wide": 0,
+        "cost": 11.35,
+        "concurrency": 76,
+        "keyword": "plumbing companies orlando",
+        "found_results": 196,
+        "types": [
+          "pic",
+          "local_pack",
+          "related_search"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "yelp",
+          "facebook",
+          "youtube",
+          "reddit"
+        ],
+        "right_spelling": null,
+        "difficulty": 38,
+        "lang": "en",
+        "suggestions_count": 11,
+        "keywords_count": 24,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "also_asks": [
+          "how do i find a reputable plumber in my area",
+          "how much does a plumber charge in florida",
+          "what is the hourly rate for a plumber in south florida",
+          "what is the biggest plumbing company in florida"
+        ],
+        "intents": [
+          "C",
+          "N"
+        ]
+      },
+      {
+        "region_queries_count": 1,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 0,
+        "keyword": "paramount plumbing orlando florida",
+        "found_results": 0,
+        "types": [],
+        "geo_names": [
+          "orlando",
+          "florida"
+        ],
+        "social_domains": [],
+        "right_spelling": null,
+        "difficulty": 1,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 1,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4
+      },
+      {
+        "region_queries_count": 10,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 0,
+        "keyword": "rainaldi plumbing orlando reviews",
+        "found_results": 66,
+        "types": [],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "linkedin",
+          " yelp",
+          " youtube",
+          " facebook"
+        ],
+        "right_spelling": null,
+        "difficulty": 3,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 2,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4,
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 4400,
+        "region_queries_count_wide": 0,
+        "cost": 20.12,
+        "concurrency": 55,
+        "keyword": "orlando plumbers",
+        "found_results": 194,
+        "types": [
+          "pic",
+          "related_search",
+          "local_pack"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "youtube",
+          "reddit",
+          "facebook",
+          "yelp"
+        ],
+        "right_spelling": null,
+        "difficulty": 39,
+        "lang": "en",
+        "suggestions_count": 214,
+        "keywords_count": 755,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 2,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 390,
+        "region_queries_count_wide": 0,
+        "cost": 11.35,
+        "concurrency": 76,
+        "keyword": "plumbing company orlando fl",
+        "found_results": 294,
+        "types": [
+          "related_search",
+          "local_pack",
+          "pic"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "yelp",
+          "youtube",
+          "reddit",
+          "facebook"
+        ],
+        "right_spelling": null,
+        "difficulty": 39,
+        "lang": "en",
+        "suggestions_count": 4,
+        "keywords_count": 8,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4,
+        "also_asks": [],
+        "intents": [
+          "C",
+          "N"
+        ]
+      },
+      {
+        "region_queries_count": 320,
+        "region_queries_count_wide": 0,
+        "cost": 1.64,
+        "concurrency": 33,
+        "keyword": "plumbing supplies orlando florida",
+        "found_results": 196,
+        "types": [
+          "pic",
+          "related_search",
+          "also_asks",
+          "local_pack"
+        ],
+        "geo_names": [
+          "orlando",
+          "florida"
+        ],
+        "social_domains": [
+          "facebook",
+          "yelp"
+        ],
+        "right_spelling": null,
+        "difficulty": 14,
+        "lang": "en",
+        "suggestions_count": 7,
+        "keywords_count": 14,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 170,
+        "region_queries_count_wide": 0,
+        "cost": 14.82,
+        "concurrency": 74,
+        "keyword": "orlando commercial plumbers",
+        "found_results": 1710000,
+        "types": [
+          "local_pack",
+          "related_search",
+          "also_asks"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "facebook",
+          "linkedin",
+          "yelp",
+          "reddit"
+        ],
+        "right_spelling": null,
+        "difficulty": 9,
+        "lang": "es",
+        "suggestions_count": 8,
+        "keywords_count": 11,
+        "keyword_length": 3,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 10,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 0,
+        "keyword": "paul wilson plumbing orlando",
+        "found_results": 0,
+        "types": [],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [],
+        "right_spelling": null,
+        "difficulty": 1,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 3,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4,
+        "intents": [
+          "I"
+        ]
+      },
+      {
+        "region_queries_count": 720,
+        "region_queries_count_wide": 0,
+        "cost": 21.39,
+        "concurrency": 74,
+        "keyword": "plumbers in kissimmee fl",
+        "found_results": 194,
+        "types": [
+          "related_search",
+          "pic",
+          "local_pack"
+        ],
+        "geo_names": [],
+        "social_domains": [
+          "facebook",
+          "reddit",
+          "yelp"
+        ],
+        "right_spelling": null,
+        "difficulty": 21,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 2,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 390,
+        "region_queries_count_wide": 0,
+        "cost": 11,
+        "concurrency": 87,
+        "keyword": "plumbing company orlando",
+        "found_results": 27,
+        "types": [
+          "related_search",
+          "local_pack"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "yelp"
+        ],
+        "right_spelling": null,
+        "difficulty": 38,
+        "lang": "en",
+        "suggestions_count": 11,
+        "keywords_count": 24,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "also_asks": [],
+        "intents": [
+          "C",
+          "N"
+        ]
+      },
+      {
+        "region_queries_count": 4400,
+        "region_queries_count_wide": 0,
+        "cost": 20.12,
+        "concurrency": 55,
+        "keyword": "orlando fl plumber",
+        "found_results": 297,
+        "types": [
+          "local_pack",
+          "also_asks",
+          "related_search"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "reddit",
+          "facebook",
+          "yelp"
+        ],
+        "right_spelling": null,
+        "difficulty": 39,
+        "lang": "en",
+        "suggestions_count": 58,
+        "keywords_count": 160,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 1,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 0,
+        "keyword": "advanced plumbing and drain cleaning orlando",
+        "found_results": 0,
+        "types": [],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [],
+        "right_spelling": null,
+        "difficulty": null,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 1,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 6,
+        "intents": [
+          "I"
+        ]
+      },
+      {
+        "region_queries_count": 50,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 20,
+        "keyword": "plumbing contractor orlando florida",
+        "found_results": 297,
+        "types": [
+          "related_search",
+          "local_pack",
+          "also_asks"
+        ],
+        "geo_names": [
+          "orlando",
+          "florida"
+        ],
+        "social_domains": [
+          "reddit",
+          "yelp",
+          "facebook",
+          "youtube"
+        ],
+        "right_spelling": null,
+        "difficulty": 39,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 7,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 10,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 71,
+        "keyword": "heichel plumbing orlando fl",
+        "found_results": 0,
+        "types": [],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [],
+        "right_spelling": null,
+        "difficulty": 1,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 1,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4,
+        "intents": [
+          "I"
+        ]
+      },
+      {
+        "region_queries_count": 10,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 0,
+        "keyword": "barnett plumbing supply orlando",
+        "found_results": 0,
+        "types": [],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [],
+        "right_spelling": null,
+        "difficulty": 1,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 3,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4,
+        "intents": [
+          "I"
+        ]
+      },
+      {
+        "region_queries_count": 30,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 31,
+        "keyword": "cheap plumber orlando",
+        "found_results": 1700000,
+        "types": [
+          "related_search",
+          "local_pack",
+          "also_asks"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "reddit",
+          "linkedin",
+          "facebook",
+          "yelp"
+        ],
+        "right_spelling": null,
+        "difficulty": 30,
+        "lang": "en",
+        "suggestions_count": 3,
+        "keywords_count": 5,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 90,
+        "region_queries_count_wide": 0,
+        "cost": 14.11,
+        "concurrency": 98,
+        "keyword": "plumbers near orlando fl",
+        "found_results": 297,
+        "types": [
+          "related_search",
+          "local_pack",
+          "also_asks"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "facebook",
+          "reddit",
+          "yelp"
+        ],
+        "right_spelling": null,
+        "difficulty": 39,
+        "lang": "en",
+        "suggestions_count": 0,
+        "keywords_count": 2,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4,
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 260,
+        "region_queries_count_wide": 0,
+        "cost": 33.3,
+        "concurrency": 57,
+        "keyword": "orlando plumbing services",
+        "found_results": 13300000,
+        "types": [
+          "local_pack",
+          "related_search"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "facebook",
+          "yelp"
+        ],
+        "right_spelling": null,
+        "difficulty": 34,
+        "lang": "en",
+        "suggestions_count": 18,
+        "keywords_count": 29,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 30,
+        "region_queries_count_wide": 0,
+        "cost": 15.575283,
+        "concurrency": 97,
+        "keyword": "plummer orlando",
+        "found_results": 725000,
+        "types": [
+          "related_search",
+          "pic"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "youtube",
+          "wikipedia",
+          "linkedin",
+          "yelp",
+          "facebook",
+          "reddit"
+        ],
+        "right_spelling": null,
+        "difficulty": 33,
+        "lang": "en",
+        "suggestions_count": 0,
+        "keywords_count": 19,
+        "keyword_length": 2,
+        "intents": [
+          "I"
+        ]
+      },
+      {
+        "region_queries_count": 4400,
+        "region_queries_count_wide": 0,
+        "cost": 20.12,
+        "concurrency": 55,
+        "keyword": "plumbing orlando",
+        "found_results": 196,
+        "types": [
+          "pic",
+          "local_pack",
+          "related_search"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "reddit",
+          "yelp",
+          "facebook",
+          "youtube"
+        ],
+        "right_spelling": null,
+        "difficulty": 38,
+        "lang": "en",
+        "suggestions_count": 214,
+        "keywords_count": 755,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 2,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 720,
+        "region_queries_count_wide": 0,
+        "cost": 21.39,
+        "concurrency": 74,
+        "keyword": "plumber in kissimmee fl",
+        "found_results": 196,
+        "types": [
+          "related_search",
+          "local_pack"
+        ],
+        "geo_names": [],
+        "social_domains": [
+          "reddit",
+          "facebook",
+          "yelp"
+        ],
+        "right_spelling": null,
+        "difficulty": 21,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 2,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 4400,
+        "region_queries_count_wide": 0,
+        "cost": 19,
+        "concurrency": 61,
+        "keyword": "plumbers orlando florida",
+        "found_results": 297,
+        "types": [
+          "local_pack",
+          "also_asks",
+          "related_search"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "reddit",
+          "yelp",
+          "facebook"
+        ],
+        "right_spelling": null,
+        "difficulty": 39,
+        "lang": "en",
+        "suggestions_count": 30,
+        "keywords_count": 88,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 1,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 0,
+        "keyword": "residential plumbing repair services orlando",
+        "found_results": 0,
+        "types": [],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [],
+        "right_spelling": null,
+        "difficulty": 1,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 1,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 5
+      },
+      {
+        "region_queries_count": 10,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 100,
+        "keyword": "orlando plumber reviews",
+        "found_results": 100,
+        "types": [
+          "ads_bot"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "facebook",
+          "amazon",
+          "yelp"
+        ],
+        "right_spelling": null,
+        "difficulty": 3,
+        "lang": "en",
+        "suggestions_count": 12,
+        "keywords_count": 18,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 170,
+        "region_queries_count_wide": 0,
+        "cost": 13.120000000000001,
+        "concurrency": 85,
+        "keyword": "orlando plumber free estimate",
+        "found_results": 461000,
+        "types": [
+          "related_search",
+          "also_asks",
+          "local_pack"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "reddit",
+          "facebook",
+          "yelp",
+          "instagram"
+        ],
+        "right_spelling": null,
+        "difficulty": 10,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 1,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 480,
+        "region_queries_count_wide": 0,
+        "cost": 30,
+        "concurrency": 49,
+        "keyword": "orlando emergency plumber",
+        "found_results": 198,
+        "types": [
+          "related_search",
+          "local_pack"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "facebook",
+          "youtube",
+          "reddit",
+          "yelp"
+        ],
+        "right_spelling": null,
+        "difficulty": 14,
+        "lang": "en",
+        "suggestions_count": 3,
+        "keywords_count": 10,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 4400,
+        "region_queries_count_wide": 0,
+        "cost": 20.12,
+        "concurrency": 55,
+        "keyword": "orlando plumbing",
+        "found_results": 196,
+        "types": [
+          "pic",
+          "local_pack",
+          "related_search"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "youtube",
+          "linkedin",
+          "yelp",
+          "reddit",
+          "facebook"
+        ],
+        "right_spelling": null,
+        "difficulty": 31,
+        "lang": "en",
+        "suggestions_count": 214,
+        "keywords_count": 755,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 2,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 1,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 0,
+        "keyword": "hughes plumbing supply orlando florida",
+        "found_results": 0,
+        "types": [],
+        "geo_names": [
+          "florida",
+          "orlando"
+        ],
+        "social_domains": [],
+        "right_spelling": null,
+        "difficulty": 1,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 1,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 5
+      },
+      {
+        "region_queries_count": 1,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 0,
+        "keyword": "randall plumbing orlando",
+        "found_results": 0,
+        "types": [],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [],
+        "right_spelling": null,
+        "difficulty": 1,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 1,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3
+      },
+      {
+        "region_queries_count": 1,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 0,
+        "keyword": "bbb plumbers orlando",
+        "found_results": 0,
+        "types": [],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [],
+        "right_spelling": null,
+        "difficulty": 1,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 1,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "intents": [
+          "I"
+        ]
+      },
+      {
+        "region_queries_count": 10,
+        "region_queries_count_wide": 0,
+        "cost": 7.34,
+        "concurrency": 19,
+        "keyword": "belzer plumbing orlando fl",
+        "found_results": 0,
+        "types": [],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [],
+        "right_spelling": null,
+        "difficulty": 1,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 2,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4,
+        "intents": [
+          "I"
+        ]
+      },
+      {
+        "region_queries_count": 30,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 8,
+        "keyword": "plumbing contractors in florida",
+        "found_results": 396,
+        "types": [
+          "related_search",
+          "also_asks",
+          "local_pack"
+        ],
+        "geo_names": [
+          "florida"
+        ],
+        "social_domains": [
+          "facebook",
+          "youtube",
+          "reddit",
+          "yelp"
+        ],
+        "right_spelling": null,
+        "difficulty": 14,
+        "lang": "en",
+        "suggestions_count": 0,
+        "keywords_count": 22,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4,
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 1,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 0,
+        "keyword": "johnny jones plumbing orlando",
+        "found_results": 0,
+        "types": [],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [],
+        "right_spelling": null,
+        "difficulty": 1,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 1,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4
+      },
+      {
+        "region_queries_count": 1,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 0,
+        "keyword": "plumber orlando reviews",
+        "found_results": 0,
+        "types": [],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [],
+        "right_spelling": null,
+        "difficulty": 3,
+        "lang": "en",
+        "suggestions_count": 12,
+        "keywords_count": 18,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3
+      },
+      {
+        "region_queries_count": 260,
+        "region_queries_count_wide": 0,
+        "cost": 16.620001,
+        "concurrency": 47,
+        "keyword": "orlando plumbing service",
+        "found_results": 13000000,
+        "types": [
+          "related_search",
+          "local_pack"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "yelp",
+          "reddit"
+        ],
+        "right_spelling": null,
+        "difficulty": 35,
+        "lang": "en",
+        "suggestions_count": 18,
+        "keywords_count": 29,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 10,
+        "region_queries_count_wide": 0,
+        "cost": 24.25,
+        "concurrency": 49,
+        "keyword": "plumbing contractors orlando",
+        "found_results": 8750000,
+        "types": [
+          "related_search",
+          "local_pack"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "yelp"
+        ],
+        "right_spelling": null,
+        "difficulty": 35,
+        "lang": "en",
+        "suggestions_count": 5,
+        "keywords_count": 17,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 50,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 3,
+        "keyword": "plumbing contractors orlando florida",
+        "found_results": 2810000,
+        "types": [
+          "also_asks",
+          "related_search",
+          "local_pack"
+        ],
+        "geo_names": [
+          "florida",
+          "orlando"
+        ],
+        "social_domains": [
+          "yelp",
+          "reddit",
+          "facebook"
+        ],
+        "right_spelling": null,
+        "difficulty": 39,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 7,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 1,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 0,
+        "keyword": "plumbers in east orlando fl",
+        "found_results": 0,
+        "types": [],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [],
+        "right_spelling": null,
+        "difficulty": 1,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 1,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 5
+      },
+      {
+        "region_queries_count": 1,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 0,
+        "keyword": "bryan plumbing orlando reviews",
+        "found_results": 0,
+        "types": [],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [],
+        "right_spelling": null,
+        "difficulty": 3,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 1,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4,
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 260,
+        "region_queries_count_wide": 0,
+        "cost": 11.43,
+        "concurrency": 56,
+        "keyword": "plumbing services orlando fl",
+        "found_results": 7190000,
+        "types": [
+          "related_search",
+          "local_pack",
+          "also_asks"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "yelp"
+        ],
+        "right_spelling": null,
+        "difficulty": 39,
+        "lang": "en",
+        "suggestions_count": 10,
+        "keywords_count": 5,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 10,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 0,
+        "keyword": "modern plumbing orlando florida",
+        "found_results": 0,
+        "types": [],
+        "geo_names": [
+          "florida",
+          "orlando"
+        ],
+        "social_domains": [],
+        "right_spelling": null,
+        "difficulty": 1,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 1,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4,
+        "intents": [
+          "I"
+        ]
+      },
+      {
+        "region_queries_count": 390,
+        "region_queries_count_wide": 0,
+        "cost": 11.35,
+        "concurrency": 76,
+        "keyword": "plumbing companies orlando florida",
+        "found_results": 294,
+        "types": [
+          "local_pack",
+          "pic",
+          "related_search"
+        ],
+        "geo_names": [
+          "orlando",
+          "florida"
+        ],
+        "social_domains": [
+          "youtube",
+          "yelp",
+          "facebook",
+          "reddit"
+        ],
+        "right_spelling": null,
+        "difficulty": 39,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 3,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4,
+        "also_asks": [],
+        "intents": [
+          "C",
+          "N"
+        ]
+      },
+      {
+        "region_queries_count": 4400,
+        "region_queries_count_wide": 0,
+        "cost": 20.12,
+        "concurrency": 55,
+        "keyword": "plumber orlando fl",
+        "found_results": 297,
+        "types": [
+          "related_search",
+          "local_pack",
+          "also_asks"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "facebook",
+          "reddit",
+          "yelp"
+        ],
+        "right_spelling": null,
+        "difficulty": 39,
+        "lang": "en",
+        "suggestions_count": 58,
+        "keywords_count": 160,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 4400,
+        "region_queries_count_wide": 0,
+        "cost": 20.12,
+        "concurrency": 55,
+        "keyword": "plumbing orlando florida",
+        "found_results": 294,
+        "types": [
+          "local_pack",
+          "also_asks",
+          "related_search",
+          "pic"
+        ],
+        "geo_names": [
+          "orlando",
+          "florida"
+        ],
+        "social_domains": [
+          "facebook",
+          "reddit",
+          "yelp"
+        ],
+        "right_spelling": null,
+        "difficulty": 39,
+        "lang": "en",
+        "suggestions_count": 30,
+        "keywords_count": 88,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 90,
+        "region_queries_count_wide": 0,
+        "cost": 11.27,
+        "concurrency": 52,
+        "keyword": "central florida plumbers",
+        "found_results": 823000,
+        "types": [
+          "related_search",
+          "local_pack",
+          "pic"
+        ],
+        "geo_names": [
+          "florida"
+        ],
+        "social_domains": [
+          "reddit",
+          "facebook",
+          "yelp"
+        ],
+        "right_spelling": null,
+        "difficulty": 4,
+        "lang": "en",
+        "suggestions_count": 8,
+        "keywords_count": 32,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 4400,
+        "region_queries_count_wide": 0,
+        "cost": 20.12,
+        "concurrency": 55,
+        "keyword": "orlando fl plumbers",
+        "found_results": 297,
+        "types": [
+          "local_pack",
+          "related_search"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "facebook",
+          "yelp",
+          "reddit"
+        ],
+        "right_spelling": null,
+        "difficulty": 38,
+        "lang": "en",
+        "suggestions_count": 58,
+        "keywords_count": 160,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 4400,
+        "region_queries_count_wide": 0,
+        "cost": 20.10883801899132,
+        "concurrency": 55,
+        "keyword": "plumber in orlando fl",
+        "found_results": 297,
+        "types": [
+          "related_search",
+          "local_pack",
+          "also_asks"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "facebook",
+          "yelp",
+          "reddit"
+        ],
+        "right_spelling": null,
+        "difficulty": 39,
+        "lang": "en",
+        "suggestions_count": 10,
+        "keywords_count": 29,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 390,
+        "region_queries_count_wide": 0,
+        "cost": 11.35,
+        "concurrency": 76,
+        "keyword": "orlando plumbing company",
+        "found_results": 196,
+        "types": [
+          "pic",
+          "also_asks",
+          "related_search",
+          "local_pack"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "facebook",
+          "linkedin",
+          "yelp",
+          "youtube"
+        ],
+        "right_spelling": null,
+        "difficulty": 26,
+        "lang": "en",
+        "suggestions_count": 11,
+        "keywords_count": 24,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "also_asks": [],
+        "intents": [
+          "C",
+          "N"
+        ]
+      },
+      {
+        "region_queries_count": 390,
+        "region_queries_count_wide": 0,
+        "cost": 11.35,
+        "concurrency": 76,
+        "keyword": "plumbing companies in orlando florida",
+        "found_results": 5790000,
+        "types": [
+          "also_asks",
+          "related_search",
+          "local_pack"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "yelp"
+        ],
+        "right_spelling": null,
+        "difficulty": 39,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 1,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 5,
+        "also_asks": [],
+        "intents": [
+          "C",
+          "N"
+        ]
+      },
+      {
+        "region_queries_count": 590,
+        "region_queries_count_wide": 0,
+        "cost": 5.2,
+        "concurrency": 19,
+        "keyword": "plumbing in florida",
+        "found_results": 297,
+        "types": [
+          "related_search",
+          "also_asks",
+          "local_pack"
+        ],
+        "geo_names": [
+          "florida"
+        ],
+        "social_domains": [
+          "yelp",
+          "facebook",
+          "reddit",
+          "youtube"
+        ],
+        "right_spelling": null,
+        "difficulty": 16,
+        "lang": "en",
+        "suggestions_count": 200,
+        "keywords_count": 713,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "also_asks": [
+          "what is the going rate for a plumber in florida",
+          "how long does it take to become a plumber in florida",
+          "do i need a license to do plumbing in florida",
+          "can i do my own plumbing work in florida"
+        ],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 1,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 0,
+        "keyword": "hammer plumbing orlando",
+        "found_results": 0,
+        "types": [],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [],
+        "right_spelling": null,
+        "difficulty": 1,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 1,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3
+      },
+      {
+        "region_queries_count": 1,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 0,
+        "keyword": "plumbers in east orlando",
+        "found_results": 0,
+        "types": [],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [],
+        "right_spelling": null,
+        "difficulty": 1,
+        "lang": "en",
+        "suggestions_count": 2,
+        "keywords_count": 2,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4
+      },
+      {
+        "region_queries_count": 260,
+        "region_queries_count_wide": 0,
+        "cost": 2.18,
+        "concurrency": 17,
+        "keyword": "choice plumbing orlando fl",
+        "found_results": 1730000,
+        "types": [
+          "kn_graph_local",
+          "related_search",
+          "pic",
+          "also_asks"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "pinterest",
+          "youtube",
+          "instagram",
+          "reddit",
+          "linkedin",
+          "facebook",
+          "yelp"
+        ],
+        "right_spelling": null,
+        "difficulty": 3,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 2,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4,
+        "intents": [
+          "N"
+        ]
+      },
+      {
+        "region_queries_count": 40,
+        "region_queries_count_wide": 0,
+        "cost": 5.41,
+        "concurrency": 35,
+        "keyword": "first quality plumbing orlando fl",
+        "found_results": 192,
+        "types": [
+          "kn_graph_local",
+          "related_search",
+          "pic"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "linkedin",
+          "yelp",
+          "facebook"
+        ],
+        "right_spelling": null,
+        "difficulty": 4,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 1,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 5,
+        "intents": [
+          "N"
+        ]
+      },
+      {
+        "region_queries_count": 90,
+        "region_queries_count_wide": 0,
+        "cost": 3.8,
+        "concurrency": 14,
+        "keyword": "all about plumbing orlando",
+        "found_results": 18200000,
+        "types": [
+          "kn_graph_local",
+          "related_search"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "reddit",
+          "yelp",
+          "linkedin",
+          "facebook"
+        ],
+        "right_spelling": null,
+        "difficulty": 2,
+        "lang": "en",
+        "suggestions_count": 0,
+        "keywords_count": 2,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4,
+        "also_asks": [],
+        "intents": [
+          "N"
+        ]
+      },
+      {
+        "region_queries_count": 70,
+        "region_queries_count_wide": 0,
+        "cost": 30.053446961164035,
+        "concurrency": 37,
+        "keyword": "plumbing contractor orlando fl",
+        "found_results": 4110000,
+        "types": [
+          "local_pack",
+          "related_search"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "yelp",
+          "reddit"
+        ],
+        "right_spelling": null,
+        "difficulty": 39,
+        "lang": "en",
+        "suggestions_count": 2,
+        "keywords_count": 4,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 70,
+        "region_queries_count_wide": 0,
+        "cost": 1.19,
+        "concurrency": 12,
+        "keyword": "ferguson plumbing supplies orlando",
+        "found_results": 162000,
+        "types": [
+          "local_pack",
+          "related_search",
+          "also_asks",
+          "pic"
+        ],
+        "geo_names": [
+          "ferguson",
+          "orlando"
+        ],
+        "social_domains": [
+          "linkedin",
+          "instagram",
+          "wikipedia",
+          "youtube",
+          "foursquare",
+          "facebook",
+          "yelp"
+        ],
+        "right_spelling": null,
+        "difficulty": 11,
+        "lang": "en",
+        "suggestions_count": 3,
+        "keywords_count": 6,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 4400,
+        "region_queries_count_wide": 0,
+        "cost": 20.12,
+        "concurrency": 55,
+        "keyword": "plumbers in orlando fl",
+        "found_results": 297,
+        "types": [
+          "local_pack",
+          "related_search",
+          "also_asks"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "facebook",
+          "reddit",
+          "yelp"
+        ],
+        "right_spelling": null,
+        "difficulty": 34,
+        "lang": "en",
+        "suggestions_count": 10,
+        "keywords_count": 29,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 390,
+        "region_queries_count_wide": 0,
+        "cost": 18.81,
+        "concurrency": 89,
+        "keyword": "apopka plumbers",
+        "found_results": 196,
+        "types": [
+          "pic",
+          "related_search",
+          "local_pack"
+        ],
+        "geo_names": [],
+        "social_domains": [
+          "yelp",
+          "youtube",
+          "facebook"
+        ],
+        "right_spelling": null,
+        "difficulty": 17,
+        "lang": "en",
+        "suggestions_count": 16,
+        "keywords_count": 61,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 2,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 1,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 0,
+        "keyword": "orlando florida plumbers union",
+        "found_results": 0,
+        "types": [],
+        "geo_names": [
+          "orlando",
+          "florida"
+        ],
+        "social_domains": [],
+        "right_spelling": null,
+        "difficulty": 1,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 2,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4
+      },
+      {
+        "region_queries_count": 1,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 0,
+        "keyword": "commercial plumbers orlando fl",
+        "found_results": 0,
+        "types": [],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [],
+        "right_spelling": null,
+        "difficulty": null,
+        "lang": "en",
+        "suggestions_count": 3,
+        "keywords_count": 4,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4,
+        "intents": [
+          "I"
+        ]
+      },
+      {
+        "region_queries_count": 10,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 21,
+        "keyword": "catapano plumbing inc orlando fl",
+        "found_results": 64,
+        "types": [],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "linkedin",
+          " facebook"
+        ],
+        "right_spelling": null,
+        "difficulty": 1,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 1,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 5,
+        "intents": [
+          "I"
+        ]
+      },
+      {
+        "region_queries_count": 480,
+        "region_queries_count_wide": 0,
+        "cost": 30,
+        "concurrency": 49,
+        "keyword": "emergency plumbing orlando",
+        "found_results": 297,
+        "types": [
+          "local_pack",
+          "also_asks",
+          "related_search"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "facebook",
+          "reddit",
+          "yelp"
+        ],
+        "right_spelling": null,
+        "difficulty": 11,
+        "lang": "en",
+        "suggestions_count": 3,
+        "keywords_count": 10,
+        "region_queries_count_last": 0,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 50,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 6,
+        "keyword": "plumbing contractor orlando",
+        "found_results": 1510000,
+        "types": [
+          "pic",
+          "related_search",
+          "local_pack"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "facebook",
+          "yelp"
+        ],
+        "right_spelling": null,
+        "difficulty": 38,
+        "lang": "en",
+        "suggestions_count": 5,
+        "keywords_count": 17,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 50,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 20,
+        "keyword": "plumbing contractors orlando fl",
+        "found_results": 297,
+        "types": [
+          "related_search",
+          "local_pack"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "yelp",
+          "reddit"
+        ],
+        "right_spelling": null,
+        "difficulty": 39,
+        "lang": "en",
+        "suggestions_count": 2,
+        "keywords_count": 4,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 480,
+        "region_queries_count_wide": 0,
+        "cost": 30.000000000000004,
+        "concurrency": 49,
+        "keyword": "emergency plumber orlando fl",
+        "found_results": 591000,
+        "types": [
+          "also_asks",
+          "ai_overview",
+          "related_search",
+          "local_pack"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "reddit",
+          "facebook",
+          "yelp",
+          "youtube"
+        ],
+        "right_spelling": null,
+        "difficulty": null,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 1,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4,
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 30,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 40,
+        "keyword": "commercial plumbing orlando fl",
+        "found_results": 294,
+        "types": [
+          "related_search",
+          "local_pack",
+          "pic"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "linkedin",
+          "facebook",
+          "yelp",
+          "youtube"
+        ],
+        "right_spelling": null,
+        "difficulty": 5,
+        "lang": "en",
+        "suggestions_count": 3,
+        "keywords_count": 4,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4,
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 260,
+        "region_queries_count_wide": 0,
+        "cost": 0.51,
+        "concurrency": 26,
+        "keyword": "orlando plumbing jobs",
+        "found_results": 86,
+        "types": [
+          "related_search",
+          "also_asks",
+          "pic"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "facebook",
+          "instagram",
+          "linkedin",
+          "reddit"
+        ],
+        "right_spelling": null,
+        "difficulty": 9,
+        "lang": "en",
+        "suggestions_count": 7,
+        "keywords_count": 26,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "also_asks": [],
+        "intents": [
+          "I"
+        ]
+      },
+      {
+        "region_queries_count": 4400,
+        "region_queries_count_wide": 0,
+        "cost": 20.12,
+        "concurrency": 55,
+        "keyword": "plumbers in orlando florida",
+        "found_results": 198,
+        "types": [
+          "local_pack",
+          "related_search"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "yelp",
+          "facebook",
+          "reddit",
+          "youtube"
+        ],
+        "right_spelling": null,
+        "difficulty": 39,
+        "lang": "en",
+        "suggestions_count": 5,
+        "keywords_count": 13,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 4400,
+        "region_queries_count_wide": 0,
+        "cost": 20.12,
+        "concurrency": 55,
+        "keyword": "orlando plumber",
+        "found_results": 196,
+        "types": [
+          "related_search",
+          "local_pack",
+          "pic"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "yelp",
+          "facebook",
+          "youtube",
+          "instagram",
+          "reddit"
+        ],
+        "right_spelling": null,
+        "difficulty": 39,
+        "lang": "en",
+        "suggestions_count": 214,
+        "keywords_count": 755,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 2,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 110,
+        "region_queries_count_wide": 0,
+        "cost": 17.96,
+        "concurrency": 69,
+        "keyword": "best plumbers orlando",
+        "found_results": 4630000,
+        "types": [
+          "local_pack",
+          "related_search"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "yelp",
+          "reddit"
+        ],
+        "right_spelling": null,
+        "difficulty": 3,
+        "lang": "en",
+        "suggestions_count": 6,
+        "keywords_count": 15,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 1,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 0,
+        "keyword": "mercury plumbing orlando reviews",
+        "found_results": 0,
+        "types": [],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [],
+        "right_spelling": null,
+        "difficulty": null,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 1,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4
+      },
+      {
+        "region_queries_count": 1,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 0,
+        "keyword": "the plumbing service company orlando fl",
+        "found_results": 0,
+        "types": [],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [],
+        "right_spelling": null,
+        "difficulty": 3,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 1,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 6
+      },
+      {
+        "region_queries_count": 1,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 0,
+        "keyword": "cheap plumbers in orlando",
+        "found_results": 0,
+        "types": [],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [],
+        "right_spelling": null,
+        "difficulty": 3,
+        "lang": "en",
+        "suggestions_count": 2,
+        "keywords_count": 2,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4,
+        "intents": [
+          "I"
+        ]
+      },
+      {
+        "region_queries_count": 210,
+        "region_queries_count_wide": 0,
+        "cost": 19.45,
+        "concurrency": 75,
+        "keyword": "longwood plumbing",
+        "found_results": 1010000,
+        "types": [
+          "ai_overview",
+          "pic",
+          "also_asks",
+          "related_search"
+        ],
+        "geo_names": [],
+        "social_domains": [
+          "reddit",
+          "facebook",
+          "yelp",
+          "linkedin"
+        ],
+        "right_spelling": null,
+        "difficulty": 8,
+        "lang": "en",
+        "suggestions_count": 16,
+        "keywords_count": 61,
+        "region_queries_count_last": 0,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 2,
+        "also_asks": [],
+        "intents": [
+          "I"
+        ]
+      },
+      {
+        "region_queries_count": 4400,
+        "region_queries_count_wide": 0,
+        "cost": 20.12,
+        "concurrency": 55,
+        "keyword": "plumber orlando",
+        "found_results": 198,
+        "types": [
+          "local_pack",
+          "related_search"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "reddit",
+          "yelp",
+          "facebook",
+          "youtube"
+        ],
+        "right_spelling": null,
+        "difficulty": 39,
+        "lang": "en",
+        "suggestions_count": 214,
+        "keywords_count": 755,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 2,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 1,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 0,
+        "keyword": "progressive plumbing orlando fl",
+        "found_results": 0,
+        "types": [],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [],
+        "right_spelling": null,
+        "difficulty": 1,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 2,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4
+      },
+      {
+        "region_queries_count": 10,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 0,
+        "keyword": "broedell plumbing orlando",
+        "found_results": 85,
+        "types": [],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "pinterest",
+          " linkedin",
+          " yelp"
+        ],
+        "right_spelling": null,
+        "difficulty": 1,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 1,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "intents": [
+          "I"
+        ]
+      },
+      {
+        "region_queries_count": 30,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 21,
+        "keyword": "florida plumbing contractors",
+        "found_results": 8520000,
+        "types": [
+          "also_asks",
+          "related_search",
+          "local_pack"
+        ],
+        "geo_names": [
+          "florida"
+        ],
+        "social_domains": [
+          "facebook",
+          "yelp",
+          "youtube",
+          "reddit"
+        ],
+        "right_spelling": null,
+        "difficulty": 9,
+        "lang": "en",
+        "suggestions_count": 12,
+        "keywords_count": 122,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 590,
+        "region_queries_count_wide": 0,
+        "cost": 4.303104146763686,
+        "concurrency": 15,
+        "keyword": "plumbers florida",
+        "found_results": 396,
+        "types": [
+          "also_asks",
+          "related_search",
+          "local_pack"
+        ],
+        "geo_names": [
+          "florida"
+        ],
+        "social_domains": [
+          "facebook",
+          "reddit",
+          "yelp"
+        ],
+        "right_spelling": null,
+        "difficulty": 11,
+        "lang": "en",
+        "suggestions_count": 974,
+        "keywords_count": 3933,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 2,
+        "also_asks": [
+          "what are the requirements to be a plumber in florida",
+          "what is the going rate for a plumber in florida",
+          "do plumbers have to be licensed in florida",
+          "how do i find out if a plumber is licensed in florida"
+        ],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 390,
+        "region_queries_count_wide": 0,
+        "cost": 226.63882499999997,
+        "concurrency": 57,
+        "keyword": "large plumbing companies",
+        "found_results": 297,
+        "types": [
+          "related_search",
+          "also_asks",
+          "local_pack"
+        ],
+        "geo_names": [],
+        "social_domains": [
+          "yelp",
+          "youtube"
+        ],
+        "right_spelling": null,
+        "difficulty": 7,
+        "lang": "en",
+        "suggestions_count": 38,
+        "keywords_count": 62,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "also_asks": [
+          "who makes plumbing products",
+          "how many plumbing companies are in the united states",
+          "which are the best company for plumbing",
+          "what is the biggest plumbing company"
+        ],
+        "intents": [
+          "C",
+          "N"
+        ]
+      },
+      {
+        "region_queries_count": 4400,
+        "region_queries_count_wide": 0,
+        "cost": 20.12,
+        "concurrency": 55,
+        "keyword": "orlando florida plumbers",
+        "found_results": 297,
+        "types": [
+          "local_pack",
+          "related_search",
+          "also_asks"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "facebook",
+          "reddit",
+          "yelp"
+        ],
+        "right_spelling": null,
+        "difficulty": 39,
+        "lang": "en",
+        "suggestions_count": 30,
+        "keywords_count": 88,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 10,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 0,
+        "keyword": "steve the plumber orlando",
+        "found_results": 2850000,
+        "types": [],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "youtube",
+          " yelp",
+          " wikipedia",
+          " facebook",
+          " linkedin"
+        ],
+        "right_spelling": null,
+        "difficulty": 1,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 2,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4,
+        "intents": [
+          "I"
+        ]
+      },
+      {
+        "region_queries_count": 20,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 96,
+        "keyword": "orlando plumbing contractors",
+        "found_results": 3880000,
+        "types": [
+          "local_pack",
+          "related_search"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "yelp",
+          "facebook"
+        ],
+        "right_spelling": null,
+        "difficulty": 39,
+        "lang": "en",
+        "suggestions_count": 5,
+        "keywords_count": 17,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 1,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 0,
+        "keyword": "next plumbing supply orlando florida",
+        "found_results": 0,
+        "types": [],
+        "geo_names": [
+          "florida",
+          "orlando"
+        ],
+        "social_domains": [],
+        "right_spelling": null,
+        "difficulty": 1,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 1,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 5
+      },
+      {
+        "region_queries_count": 1,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 0,
+        "keyword": "wholesale plumbing supplies orlando",
+        "found_results": 0,
+        "types": [],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [],
+        "right_spelling": null,
+        "difficulty": 4,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 1,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4
+      },
+      {
+        "region_queries_count": 4400,
+        "region_queries_count_wide": 0,
+        "cost": 20.12,
+        "concurrency": 55,
+        "keyword": "plumbing in orlando",
+        "found_results": 297,
+        "types": [
+          "related_search",
+          "local_pack",
+          "also_asks"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "youtube",
+          "facebook",
+          "reddit",
+          "yelp"
+        ],
+        "right_spelling": null,
+        "difficulty": 38,
+        "lang": "en",
+        "suggestions_count": 28,
+        "keywords_count": 91,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 320,
+        "region_queries_count_wide": 0,
+        "cost": 4.48,
+        "concurrency": 30,
+        "keyword": "plumbing companies florida",
+        "found_results": 495,
+        "types": [
+          "also_asks",
+          "related_search",
+          "ads_bot",
+          "local_pack"
+        ],
+        "geo_names": [
+          "florida"
+        ],
+        "social_domains": [
+          "yelp",
+          "facebook"
+        ],
+        "right_spelling": null,
+        "difficulty": 12,
+        "lang": "en",
+        "suggestions_count": 27,
+        "keywords_count": 86,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "also_asks": [],
+        "intents": [
+          "C",
+          "N"
+        ]
+      },
+      {
+        "region_queries_count": 1,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 0,
+        "keyword": "orlando plumbing union",
+        "found_results": 0,
+        "types": [],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [],
+        "right_spelling": null,
+        "difficulty": null,
+        "lang": "en",
+        "suggestions_count": 5,
+        "keywords_count": 10,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3
+      },
+      {
+        "region_queries_count": 70,
+        "region_queries_count_wide": 20,
+        "cost": 3.2400000000000007,
+        "concurrency": 24,
+        "keyword": "plumbing services in florida",
+        "found_results": 34400000,
+        "types": [
+          "also_asks",
+          "ads_bot",
+          "ads_top",
+          "local_pack",
+          "related_search"
+        ],
+        "geo_names": [
+          "florida"
+        ],
+        "social_domains": [
+          "yelp",
+          "facebook"
+        ],
+        "right_spelling": null,
+        "difficulty": null,
+        "lang": "en",
+        "suggestions_count": 2,
+        "keywords_count": 11,
+        "region_queries_count_last": 20,
+        "keyword_length": 4,
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 4400,
+        "region_queries_count_wide": 0,
+        "cost": 19,
+        "concurrency": 61,
+        "keyword": "plumbing orlando fl",
+        "found_results": 294,
+        "types": [
+          "local_pack",
+          "related_search",
+          "pic"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "reddit",
+          "yelp",
+          "facebook"
+        ],
+        "right_spelling": null,
+        "difficulty": 35,
+        "lang": "en",
+        "suggestions_count": 58,
+        "keywords_count": 160,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 1,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 0,
+        "keyword": "paramount plumbing inc orlando",
+        "found_results": 0,
+        "types": [],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [],
+        "right_spelling": null,
+        "difficulty": null,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 1,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4
+      },
+      {
+        "region_queries_count": 1,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 0,
+        "keyword": "best plumbing company in orlando",
+        "found_results": 0,
+        "types": [],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [],
+        "right_spelling": null,
+        "difficulty": 3,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 2,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 5,
+        "intents": [
+          "C",
+          "N"
+        ]
+      },
+      {
+        "region_queries_count": 20,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 85,
+        "keyword": "commercial plumbing contractors orlando fl",
+        "found_results": 3310000,
+        "types": [
+          "ads_bot",
+          "related_search",
+          "local_pack"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "linkedin",
+          "yelp"
+        ],
+        "right_spelling": null,
+        "difficulty": 5,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 1,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 5,
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 90,
+        "region_queries_count_wide": 0,
+        "cost": 15.610000000000001,
+        "concurrency": 46,
+        "keyword": "central florida plumbing",
+        "found_results": 15800000,
+        "types": [
+          "related_search",
+          "local_pack",
+          "pic"
+        ],
+        "geo_names": [
+          "florida"
+        ],
+        "social_domains": [
+          "yelp",
+          "instagram",
+          "facebook",
+          "youtube",
+          "reddit"
+        ],
+        "right_spelling": null,
+        "difficulty": 3,
+        "lang": "en",
+        "suggestions_count": 8,
+        "keywords_count": 32,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 260,
+        "region_queries_count_wide": 0,
+        "cost": 16.700001,
+        "concurrency": 51,
+        "keyword": "plumbing services in orlando",
+        "found_results": 14500000,
+        "types": [
+          "local_pack",
+          "related_search",
+          "pic"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "yelp",
+          "facebook",
+          "reddit",
+          "youtube"
+        ],
+        "right_spelling": null,
+        "difficulty": 39,
+        "lang": "en",
+        "suggestions_count": 0,
+        "keywords_count": 3,
+        "keyword_length": 4,
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 170,
+        "region_queries_count_wide": 0,
+        "cost": 7.94,
+        "concurrency": 26,
+        "keyword": "plumbers fl",
+        "found_results": 396,
+        "types": [
+          "local_pack",
+          "also_asks",
+          "related_search"
+        ],
+        "geo_names": [],
+        "social_domains": [
+          "yelp",
+          "facebook",
+          "reddit"
+        ],
+        "right_spelling": null,
+        "difficulty": 19,
+        "lang": "en",
+        "suggestions_count": 1537,
+        "keywords_count": 5517,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 2,
+        "also_asks": [],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 390,
+        "region_queries_count_wide": 0,
+        "cost": 11.35,
+        "concurrency": 76,
+        "keyword": "orlando plumbing companies",
+        "found_results": 297,
+        "types": [
+          "related_search",
+          "local_pack"
+        ],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [
+          "facebook",
+          "yelp",
+          "reddit"
+        ],
+        "right_spelling": null,
+        "difficulty": 38,
+        "lang": "en",
+        "suggestions_count": 11,
+        "keywords_count": 24,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "also_asks": [],
+        "intents": [
+          "C",
+          "N"
+        ]
+      },
+      {
+        "region_queries_count": 590,
+        "region_queries_count_wide": 0,
+        "cost": 4.12,
+        "concurrency": 19,
+        "keyword": "plumbers in florida",
+        "found_results": 294,
+        "types": [
+          "local_pack",
+          "related_search",
+          "pic",
+          "also_asks",
+          "ads_bot"
+        ],
+        "geo_names": [
+          "florida"
+        ],
+        "social_domains": [
+          "reddit",
+          "yelp",
+          "facebook",
+          "youtube"
+        ],
+        "right_spelling": null,
+        "difficulty": 9,
+        "lang": "en",
+        "suggestions_count": 200,
+        "keywords_count": 713,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "also_asks": [
+          "are plumbers in demand in florida",
+          "do plumbers have to be licensed in florida",
+          "how long does it take to become a licensed plumber in florida",
+          "how much is plumbing in florida"
+        ],
+        "intents": [
+          "C"
+        ]
+      },
+      {
+        "region_queries_count": 1,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 0,
+        "keyword": "plumber orlando 32822",
+        "found_results": 0,
+        "types": [],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [],
+        "right_spelling": null,
+        "difficulty": 1,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 1,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3
+      },
+      {
+        "region_queries_count": 1,
+        "region_queries_count_wide": 0,
+        "cost": 0,
+        "concurrency": 0,
+        "keyword": "commercial plumber orlando",
+        "found_results": 0,
+        "types": [],
+        "geo_names": [
+          "orlando"
+        ],
+        "social_domains": [],
+        "right_spelling": null,
+        "difficulty": 1,
+        "lang": "en",
+        "suggestions_count": 8,
+        "keywords_count": 11,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 3,
+        "intents": [
+          "I"
+        ]
+      },
+      {
+        "region_queries_count": 40,
+        "region_queries_count_wide": 0,
+        "cost": 8.62,
+        "concurrency": 31,
+        "keyword": "bryan plumbing orlando florida",
+        "found_results": 82,
+        "types": [
+          "pic",
+          "kn_graph_local",
+          "related_search"
+        ],
+        "geo_names": [
+          "florida",
+          "orlando"
+        ],
+        "social_domains": [
+          "linkedin",
+          "reddit",
+          "instagram",
+          "facebook",
+          "tripadvisor",
+          "yelp"
+        ],
+        "right_spelling": null,
+        "difficulty": 2,
+        "lang": "en",
+        "suggestions_count": 1,
+        "keywords_count": 1,
+        "region_queries_count_phrase": 0,
+        "keyword_length": 4,
+        "intents": [
+          "N"
+        ]
+      }
+    ],
+    "summary_info": {
+      "page": 1,
+      "left_lines": 826
+    }
+  }
+}

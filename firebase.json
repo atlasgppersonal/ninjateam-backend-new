@@ -1,0 +1,80 @@
+{
+  "firestore": {
+    "database": "(default)",
+    "location": "us-central1",
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ],
+      "predeploy": [
+        "npm --prefix \"$RESOURCE_DIR\" run build"
+      ],
+      "env": {
+        "PLAYWRIGHT_BROWSERS_PATH": "0"
+      },
+      "secrets": ["SERVICE_ACCOUNT_JSON_B64"]
+    },
+    {
+      "source": "main",
+      "codebase": "main",
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ]
+    }
+  ],
+  "hosting": {
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "headers": [
+      {
+        "source": "**",
+        "headers": [
+          {
+            "key": "Access-Control-Allow-Origin",
+            "value": "*"
+          }
+        ]
+      }
+    ]
+  },
+  "storage": {
+    "rules": "y"
+  },
+  "emulators": {
+    "functions": {
+      "port": 7001
+    },
+    "firestore": {
+      "port": 9081
+    },
+    "hosting": {
+      "port": 7000
+    },
+    "storage": {
+      "port": 11199
+    },
+    "singleProjectMode": true,
+    "emulator_hub": {
+      "port": 8001
+    }
+  },
+  "extensions": {}
+}

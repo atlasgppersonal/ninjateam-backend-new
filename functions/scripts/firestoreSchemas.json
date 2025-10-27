@@ -1,0 +1,85 @@
+{
+  "contacts": {
+    "business_name": "null",
+    "last_sent": "string",
+    "contactId": "string",
+    "raw_contact": {
+      "business_name": "null",
+      "name_confidence": "number",
+      "body_text": "string",
+      "city": "string",
+      "image_hash": "string",
+      "services_rendered": "string[]",
+      "url": "string",
+      "cant_text": "number",
+      "post_id": "string",
+      "website_url": "null",
+      "phone": "string",
+      "name": "null",
+      "original_category": "string",
+      "state": "string",
+      "category": "string",
+      "email": "null"
+    },
+    "image_hash": "string",
+    "services_rendered": "string[]",
+    "source_url": "string",
+    "phone": "string",
+    "name": "null",
+    "category": "string",
+    "email": "null",
+    "hash": "string",
+    "timestamp": "admin.firestore.Timestamp",
+    "status": "string",
+    "enriched_data": {
+      "website_status": "null",
+      "zip_code": "null",
+      "address": "null",
+      "gmb_data": {
+        "business": "any[]",
+        "competitors_zip": "any[]",
+        "competitors_city": "any[]"
+      },
+      "website_analysis": "null"
+    }
+  },
+  "dataUsaKeyPoints": {
+    "city": "string",
+    "state": "string",
+    "data": {
+      "demographics": {
+        "2023 population": "string",
+        "2023 median age": "string",
+        "2023 poverty rate": "string",
+        "largest ethnic groups": "string",
+        "us citizenship": "string",
+        "foreign-born population": "string",
+        "homeownership rate": "string"
+      },
+      "economy": {
+        "2023 median household income": "string",
+        "2023 median property value": "string",
+        "2023 employed population": "string",
+        "largest industries": "string",
+        "highest paying industries": "string",
+        "most common job groups": "string",
+        "average commute time": "string",
+        "average car ownership": "string"
+      }
+    },
+    "lastUpdated": "admin.firestore.Timestamp"
+  },
+  "marketingStrategy": {
+    "strategyData": {
+      "executive summary": "string",
+      "key findings overview": "string",
+      "detailed target audience analysis": "string",
+      "geographic market analysis": "string",
+      "conversion probability analysis": "string",
+      "competitive landscape analysis": "string",
+      "refined marketing strategy recommendations": "string",
+      "success metrics and kpis": "string"
+    },
+    "lastUpdated": "admin.firestore.Timestamp"
+  }
+}

@@ -1,0 +1,308 @@
+﻿# AI Agent Team – Master Implementation Spec (v3.5)
+
+
+## Purpose
+This document defines how each **AI Agent card** on the personalized landing page is structured, how variables map to enriched/Firestore data, and how each row resolves.  
+Includes:  
+- Row-by-row ASCII mockups  
+- Before/After render examples  
+- Explicit function signatures (server-side)  
+- JSON response contracts (client-side)  
+- Fallback/Waterfall rules  
+- Agent roster with names  
+
+
+---
+
+
+# Active Agents
+
+
+## 1. SEO Agent – **Max**
+### Layout Overview
+Follows a **4-row structure**.  
+- Row 1: Intro (avatar + greeting)  
+- Row 2: Headline impact statement  
+- Row 3: Insights left, chart right  
+- Row 4: Conclusion ROI  
+
+
+### Row 1 – Intro
+**Wireframe**
++------------------------------------------------------------+
+| [Avatar Max] | Hi {{firstName}}, I’m Max, your SEO |
+| | Strategist in {{city}}. |
++------------------------------------------------------------+
+
+
+python
+Copy code
+
+
+**Function**
+```python
+def getSEOIntro(contactHash: str, templateString: str) -> dict:
+    # TODO: Fetch contact from DB
+    # TODO: Hydrate template with contact.first_name, agentName, contact.city
+    return {"sectionHtml": resolved}
+JSON Response
+
+
+json
+Copy code
+{ "sectionHtml": "<p>Hi John, I’m Max, your SEO Strategist in Denver.</p>" }
+Before/After
+
+
+mathematica
+Copy code
+Before: Hi {{firstName}}, I’m Max, your SEO Strategist in {{city}}.
+After:  Hi John, I’m Max, your SEO Strategist in Denver.
+Row 2 – Headline
+lua
+Copy code
++------------------------------------------------------------+
+| You could attract {{multiplier}} more clients by improving |
+| your local SEO and review presence.                        |
++------------------------------------------------------------+
+Function
+
+
+python
+Copy code
+def getSEOHeadline(contactHash: str, templateString: str) -> dict:
+    # TODO: Fetch competitor data, calculate multiplier
+    return {"sectionHtml": resolved}
+JSON Response
+
+
+json
+Copy code
+{ "sectionHtml": "You could attract 3x more clients by improving your local SEO and review presence." }
+Row 3 – Insights + Chart (Two-Cell Split)
+diff
+Copy code
++------------------------------------------------------------+
+| • Competitors in {{city}} are posting weekly updates.      |   [Bar Chart: {{businessReviewCount}} vs {{topCompetitorReviewCount}} vs {{cityAverageReviewCount}}]
+| • Businesses with >{{reviewThreshold}} reviews rank higher.|
++------------------------------------------------------------+
+Function – Insights
+
+
+python
+Copy code
+def getSEOInsights(contactHash: str, templateString: str) -> dict:
+    # TODO: Generate bullet insights from dataset
+    return {"sectionHtml": resolved}
+Function – Chart
+
+
+python
+Copy code
+def getSEOChart(contactHash: str) -> dict:
+    # TODO: Calculate competitor max, city avg, contact reviews
+    return {
+        "chartType": "bar",
+        "series": [
+            {"label": contact.business_name, "value": contact.review_count},
+            {"label": "Top Competitor", "value": top_comp},
+            {"label": f"{contact.city} Avg", "value": city_avg}
+        ]
+    }
+Row 4 – Conclusion
+bash
+Copy code
++------------------------------------------------------------+
+| By catching up, you could gain ~{{monthlyNewClients}} new  |
+| clients/month → ${{annualRevenueImpact}} per year.         |
++------------------------------------------------------------+
+Function
+
+
+python
+Copy code
+def getSEOConclusion(contactHash: str, templateString: str) -> dict:
+    # TODO: Calculate ROI impact
+    return {"sectionHtml": resolved}
+2. Blog Writer Agent – Sophia
+Wireframe
+
+
+lua
+Copy code
++------------------------------------------------------------+
+| "Here’s a blog idea for {{businessName}}: {{blogTitle}}"   |
++------------------------------------------------------------+
+Function
+
+
+python
+Copy code
+def getBlogPost(contactHash: str, templateString: str) -> dict:
+    # TODO: Fetch business data, SEO keywords
+    # TODO: Propose blog topic using category + location
+    return {"sectionHtml": resolved}
+JSON
+
+
+json
+Copy code
+{ "sectionHtml": "Here’s a blog idea for Denver Optometry: 5 Ways Clear Vision Improves Daily Life" }
+3. Chat Agent – Daniel
+Wireframe
+
+
+css
+Copy code
+[Chat bubble greeting]
+"Hi {{firstName}}, I’m here to answer questions about {{businessName}}."
+Function
+
+
+python
+Copy code
+def getChatGreeting(contactHash: str, templateString: str) -> dict:
+    # TODO: Fetch contact + business name
+    return {"sectionHtml": resolved}
+4. Phone Agent – Maya
+Wireframe
+
+
+csharp
+Copy code
+[Phone Call Script]
+"Hello, this is {{businessName}}, how can I help you today?"
+Function
+
+
+python
+Copy code
+def getPhoneGreeting(contactHash: str, templateString: str) -> dict:
+    # TODO: Hydrate with business name
+    return {"sectionHtml": resolved}
+5. Personalization Agent – Aiden
+Wireframe
+
+
+yaml
+Copy code
+Dynamic card content:
+"Welcome back {{firstName}}, we’ve tailored offers for {{city}} clients."
+Function
+
+
+python
+Copy code
+def getPersonalizedSection(contactHash: str, templateString: str) -> dict:
+    # TODO: Hydrate with name + city
+    return {"sectionHtml": resolved}
+6. Competitor Analysis Agent – Elena
+Wireframe
+
+
+css
+Copy code
+Competitor Comparison
+• You: {{reviewCount}} reviews
+• Top Competitor: {{topCompetitorReviews}}
+• City Avg: {{cityAverageReviews}}
+Function
+
+
+python
+Copy code
+def getCompetitorSnapshot(contactHash: str, templateString: str) -> dict:
+    # TODO: Fetch competitor dataset, calculate avg
+    return {"sectionHtml": resolved}
+7. Emailing Agent – Carlos
+Wireframe
+
+
+css
+Copy code
+"Hi {{firstName}}, just a quick reminder from {{businessName}}…"
+Function
+
+
+python
+Copy code
+def getEmailDraft(contactHash: str, templateString: str) -> dict:
+    # TODO: Pull client + business info
+    # TODO: Hydrate reminder template
+    return {"sectionHtml": resolved}
+8. GEO Agent – Priya
+Wireframe
+
+
+css
+Copy code
+Q&A Block
+Q: {{questionPrompt}}
+A: {{answerText}}
+Function
+
+
+python
+Copy code
+def getGeoQA(contactHash: str, templateString: str) -> dict:
+    # TODO: Suggest Q&A from blog keywords
+    return {"sectionHtml": resolved}
+9. CRM Agent – David
+Wireframe
+
+
+css
+Copy code
+Contact: {{contactName}}
+Activities:
+- {{activityType}} at {{activityTime}}
+Function
+
+
+python
+Copy code
+def getCRMContactView(contactHash: str) -> dict:
+    # TODO: Fetch contact basic info + activities (enriched, emails, SMS)
+    return {
+        "contact": {...},
+        "activities": [...]
+    }
+In Training Agents
+1. Social Media Agent – Lila
+(Placeholder data allowed)
+
+
+python
+Copy code
+def getSocialDraft(contactHash: str) -> dict:
+    # TODO: Placeholder viral content draft
+    return {"draftPost": "Did you know 80% of Denver shoppers pick local? 🌟 #ShopLocal"}
+2. Partnership Agent – Kenji
+python
+Copy code
+def getPartnerSuggestions(contactHash: str) -> dict:
+    # TODO: Placeholder partner analysis
+    return {"partners": ["Local Optometrists", "Eyewear Shops"]}
+3. Lead Agent – Fatima
+python
+Copy code
+def getLeadList(contactHash: str) -> dict:
+    # TODO: Placeholder scraped leads
+    return {"leads": [{"name": "John Realty", "industry": "Realtor"}]}
+4. Data Analyst Agent – Oliver
+python
+Copy code
+def getAnalytics(contactHash: str) -> dict:
+    # TODO: Placeholder analytics summary
+    return {"insights": ["Review growth trending +12% MoM", "Competitor posting 2x more blogs"]}
+Notes
+Active Agents use enriched dataset or derivable values only.
+
+
+In-Training Agents use clearly marked placeholder data.
+
+
+All functions return JSON ready for client hydration.
+
+
+All take contactHash as entrypoint.

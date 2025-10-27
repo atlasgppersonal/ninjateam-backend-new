@@ -1,0 +1,128 @@
+[36m[1mi  emulators:[22m[39m Starting emulators: functions
+[33m[1m!  emulators:[22m[39m It seems that you are running multiple instances of the emulator suite for project fourth-outpost-470409-u3. This may result in unexpected behavior.
+[33m[1m!  functions:[22m[39m The following emulators are not running, calls to these services from the Functions emulator will affect production: [1mapphosting, auth, firestore, database, hosting, pubsub, storage, dataconnect[22m
+[33m[1m!  functions:[22m[39m Application Default Credentials detected. Non-emulated services will access production using these credentials. Be careful!
+[36m[1mi  functions:[22m[39m Watching "C:\Users\GIO PLUGLIESE\Documents\Work\ags site\new-site\ai-platform-website-functions\functions" for Cloud Functions...
+[32m[1m+  functions:[22m[39m Using node@22 from host.
+Serving at port 8833
+
+[32m[1m+  functions:[22m[39m Using node@22 from host.
+Serving at port 8273
+
+[32m[1m+  functions:[22m[39m Using node@22 from host.
+[32m[1m+  functions:[22m[39m Loaded functions definitions from source: whoAmI, addLeadToSMSQueue, emailDispatcherProc, receiveLeadData, sendLeadNotification, getServiceClientData, getPageMetadata, saveArbitrageData, populateWeatherDataAndNews.
+[32m[1m+  functions[us-central1-whoAmI]:[22m[39m [1mhttp[22m function initialized (http://127.0.0.1:7001/fourth-outpost-470409-u3/us-central1/whoAmI).
+[32m[1m+  functions[us-central1-addLeadToSMSQueue]:[22m[39m [1mhttp[22m function initialized (http://127.0.0.1:7001/fourth-outpost-470409-u3/us-central1/addLeadToSMSQueue).
+[36m[1mi  functions[us-central1-emailDispatcherProc]:[22m[39m function ignored because the firestore emulator does not exist or is not running.
+[32m[1m+  functions[us-central1-receiveLeadData]:[22m[39m [1mhttp[22m function initialized (http://127.0.0.1:7001/fourth-outpost-470409-u3/us-central1/receiveLeadData).
+[32m[1m+  functions[us-central1-sendLeadNotification]:[22m[39m [1mhttp[22m function initialized (http://127.0.0.1:7001/fourth-outpost-470409-u3/us-central1/sendLeadNotification).
+[32m[1m+  functions[us-central1-getServiceClientData]:[22m[39m [1mhttp[22m function initialized (http://127.0.0.1:7001/fourth-outpost-470409-u3/us-central1/getServiceClientData).
+[32m[1m+  functions[us-central1-getPageMetadata]:[22m[39m [1mhttp[22m function initialized (http://127.0.0.1:7001/fourth-outpost-470409-u3/us-central1/getPageMetadata).
+[32m[1m+  functions[us-central1-saveArbitrageData]:[22m[39m [1mhttp[22m function initialized (http://127.0.0.1:7001/fourth-outpost-470409-u3/us-central1/saveArbitrageData).
+[36m[1mi  functions[us-central1-populateWeatherDataAndNews]:[22m[39m function ignored because the pubsub emulator does not exist or is not running.
+[36m[1mi  functions:[22m[39m Watching "C:\Users\GIO PLUGLIESE\Documents\Work\ags site\new-site\ai-platform-website-functions\main" for Cloud Functions...
+[32m[1m+  functions:[22m[39m Using node@22 from host.
+Serving at port 8443
+
+Serving at port 8286
+
+[32m[1m+  functions:[22m[39m Using node@22 from host.
+Serving at port 8953
+
+[32m[1m+  functions:[22m[39m Loaded functions definitions from source: whoAmI, addLeadToSMSQueue, emailDispatcherProc, receiveLeadData, sendLeadNotification, getServiceClientData, getPageMetadata, saveArbitrageData, populateWeatherDataAndNews.
+[32m[1m+  functions:[22m[39m Using node@22 from host.
+Serving at port 8215
+
+[32m[1m+  functions:[22m[39m Using node@22 from host.
+[32m[1m+  functions:[22m[39m Loaded functions definitions from source: .
+[32m[1m+  functions:[22m[39m Loaded functions definitions from source: whoAmI, addLeadToSMSQueue, emailDispatcherProc, receiveLeadData, sendLeadNotification, getServiceClientData, getPageMetadata, saveArbitrageData, populateWeatherDataAndNews.
+
+[90mΓöîΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÉ[39m
+[90mΓöé[39m [32mΓ£ö[39m  [1mAll emulators ready! It is now safe to connect your app.[22m [90mΓöé[39m
+[90mΓöé[39m [36mi[39m  View Emulator UI at [4m[1mhttp://127.0.0.1:8000/[22m[24m               [90mΓöé[39m
+[90mΓööΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÿ[39m
+
+[90mΓöîΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ[39m[90mΓö¼ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ[39m[90mΓö¼ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÉ[39m
+[90mΓöé[39m[33m Emulator  [39m[90mΓöé[39m[33m Host:Port      [39m[90mΓöé[39m[33m View in Emulator UI             [39m[90mΓöé[39m
+[90mΓö£ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ[39m[90mΓö╝ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ[39m[90mΓö╝ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöñ[39m
+[90mΓöé[39m Functions [90mΓöé[39m 127.0.0.1:7001 [90mΓöé[39m [4m[1mhttp://127.0.0.1:8000/functions[22m[24m [90mΓöé[39m
+[90mΓööΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ[39m[90mΓö┤ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ[39m[90mΓö┤ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÿ[39m
+[90m  Emulator Hub host: 127.0.0.1 port: 4400[39m
+[90m  Other reserved ports:[39m 8002
+
+Issues? Report them at [4m[1mhttps://github.com/firebase/firebase-tools/issues[22m[24m and attach the *-debug.log files.
+ 
+Serving at port 8099
+
+[32m[1m+  functions:[22m[39m Using node@22 from host.
+[32m[1m+  functions:[22m[39m Loaded functions definitions from source: whoAmI, addLeadToSMSQueue, emailDispatcherProc, receiveLeadData, sendLeadNotification, getServiceClientData, getPageMetadata, saveArbitrageData, populateWeatherDataAndNews.
+Serving at port 8659
+
+[32m[1m+  functions:[22m[39m Using node@22 from host.
+[32m[1m+  functions:[22m[39m Loaded functions definitions from source: whoAmI, addLeadToSMSQueue, emailDispatcherProc, receiveLeadData, sendLeadNotification, getServiceClientData, getPageMetadata, saveArbitrageData, populateWeatherDataAndNews.
+Serving at port 8692
+
+[32m[1m+  functions:[22m[39m Loaded functions definitions from source: whoAmI, addLeadToSMSQueue, emailDispatcherProc, receiveLeadData, sendLeadNotification, getServiceClientData, getPageMetadata, saveArbitrageData, populateWeatherDataAndNews.
+[32m[1m+  functions:[22m[39m Using node@22 from host.
+Serving at port 8596
+
+[32m[1m+  functions:[22m[39m Using node@22 from host.
+[32m[1m+  functions:[22m[39m Loaded functions definitions from source: whoAmI, addLeadToSMSQueue, emailDispatcherProc, receiveLeadData, sendLeadNotification, getServiceClientData, getPageMetadata, saveArbitrageData, populateWeatherDataAndNews.
+Serving at port 8744
+
+[32m[1m+  functions:[22m[39m Using node@22 from host.
+[32m[1m+  functions:[22m[39m Loaded functions definitions from source: whoAmI, addLeadToSMSQueue, emailDispatcherProc, receiveLeadData, sendLeadNotification, getServiceClientData, getPageMetadata, saveArbitrageData, populateWeatherDataAndNews.
+Serving at port 8266
+
+[32m[1m+  functions:[22m[39m Using node@22 from host.
+[32m[1m+  functions:[22m[39m Loaded functions definitions from source: whoAmI, addLeadToSMSQueue, emailDispatcherProc, receiveLeadData, sendLeadNotification, getServiceClientData, getPageMetadata, saveArbitrageData, populateWeatherDataAndNews.
+Serving at port 8347
+
+[32m[1m+  functions:[22m[39m Using node@22 from host.
+[32m[1m+  functions:[22m[39m Loaded functions definitions from source: whoAmI, addLeadToSMSQueue, emailDispatcherProc, receiveLeadData, sendLeadNotification, getServiceClientData, getPageMetadata, saveArbitrageData, populateWeatherDataAndNews.
+Serving at port 8355
+
+[32m[1m+  functions:[22m[39m Using node@22 from host.
+[32m[1m+  functions:[22m[39m Loaded functions definitions from source: whoAmI, addLeadToSMSQueue, emailDispatcherProc, receiveLeadData, sendLeadNotification, getServiceClientData, getPageMetadata, saveArbitrageData, populateWeatherDataAndNews.
+Serving at port 8039
+
+[32m[1m+  functions:[22m[39m Using node@22 from host.
+[32m[1m+  functions:[22m[39m Loaded functions definitions from source: whoAmI, addLeadToSMSQueue, emailDispatcherProc, receiveLeadData, sendLeadNotification, getServiceClientData, getPageMetadata, saveArbitrageData, populateWeatherDataAndNews.
+Serving at port 8839
+
+[32m[1m+  functions:[22m[39m Using node@22 from host.
+[32m[1m+  functions:[22m[39m Loaded functions definitions from source: whoAmI, addLeadToSMSQueue, emailDispatcherProc, receiveLeadData, sendLeadNotification, getServiceClientData, getPageMetadata, saveArbitrageData, populateWeatherDataAndNews.
+Serving at port 8459
+
+[32m[1m+  functions:[22m[39m Using node@22 from host.
+[32m[1m+  functions:[22m[39m Loaded functions definitions from source: whoAmI, addLeadToSMSQueue, emailDispatcherProc, receiveLeadData, sendLeadNotification, getServiceClientData, getPageMetadata, saveArbitrageData, populateWeatherDataAndNews.
+Serving at port 8885
+
+[32m[1m+  functions:[22m[39m Loaded functions definitions from source: whoAmI, addLeadToSMSQueue, emailDispatcherProc, receiveLeadData, sendLeadNotification, getServiceClientData, getPageMetadata, saveArbitrageData, populateWeatherDataAndNews.
+[32m[1m+  functions:[22m[39m Using node@22 from host.
+Serving at port 8361
+
+[32m[1m+  functions:[22m[39m Using node@22 from host.
+[32m[1m+  functions:[22m[39m Loaded functions definitions from source: whoAmI, addLeadToSMSQueue, emailDispatcherProc, receiveLeadData, sendLeadNotification, getServiceClientData, getPageMetadata, saveArbitrageData, populateWeatherDataAndNews.
+Serving at port 8456
+
+[32m[1m+  functions:[22m[39m Using node@22 from host.
+[32m[1m+  functions:[22m[39m Loaded functions definitions from source: whoAmI, addLeadToSMSQueue, emailDispatcherProc, receiveLeadData, sendLeadNotification, getServiceClientData, getPageMetadata, saveArbitrageData, populateWeatherDataAndNews.
+Serving at port 8723
+
+[32m[1m+  functions:[22m[39m Loaded functions definitions from source: whoAmI, addLeadToSMSQueue, emailDispatcherProc, receiveLeadData, sendLeadNotification, getServiceClientData, getPageMetadata, saveArbitrageData, populateWeatherDataAndNews.
+[32m[1m+  functions:[22m[39m Using node@22 from host.
+[32m[1m+  functions:[22m[39m Loaded functions definitions from source: whoAmI, addLeadToSMSQueue, emailDispatcherProc, receiveLeadData, sendLeadNotification, getServiceClientData, getPageMetadata, saveArbitrageData, populateWeatherDataAndNews.
+Serving at port 8052
+
+[32m[1m+  functions:[22m[39m Using node@22 from host.
+Serving at port 8468
+
+[32m[1m+  functions:[22m[39m Using node@22 from host.
+[32m[1m+  functions:[22m[39m Loaded functions definitions from source: whoAmI, addLeadToSMSQueue, emailDispatcherProc, receiveLeadData, sendLeadNotification, getServiceClientData, getPageMetadata, saveArbitrageData, populateWeatherDataAndNews.
+Serving at port 8383
+
+[32m[1m+  functions:[22m[39m Loaded functions definitions from source: whoAmI, addLeadToSMSQueue, emailDispatcherProc, receiveLeadData, sendLeadNotification, getServiceClientData, getPageMetadata, saveArbitrageData, populateWeatherDataAndNews.
+[32m[1m+  functions:[22m[39m Using node@22 from host.
+Serving at port 8488
+

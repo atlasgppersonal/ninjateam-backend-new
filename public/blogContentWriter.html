@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog Content Writer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #0056b3;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .form-group {
+            margin-bottom: 15px;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+        input[type="text"] {
+            width: calc(100% - 22px);
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 16px;
+        }
+        button {
+            background-color: #007bff;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+            width: 100%;
+            box-sizing: border-box;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        .results {
+            margin-top: 30px;
+            border-top: 1px solid #eee;
+            padding-top: 20px;
+        }
+        .result-item {
+            background-color: #e9ecef;
+            padding: 15px;
+            border-radius: 5px;
+            margin-bottom: 10px;
+        }
+        .chart-container {
+            margin-top: 20px;
+            border: 1px solid #ddd;
+            padding: 10px;
+            background-color: #f9f9f9;
+            text-align: center;
+        }
+        .chart-container h3 {
+            margin-top: 0;
+            color: #007bff;
+        }
+        .chart-data {
+            font-family: 'Courier New', Courier, monospace;
+            white-space: pre-wrap;
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Blog Content Generator</h1>
+
+        <div class="form-group">
+            <label for="city">City:</label>
+            <input type="text" id="city" value="Denver">
+        </div>
+        <div class="form-group">
+            <label for="category">Category:</label>
+            <input type="text" id="category" value="Dental">
+        </div>
+        <button onclick="generateContent()">Generate Content</button>
+
+        <div class="results" id="results">
+            <h2>Generated Content & Data</h2>
+            <div id="contentOutput"></div>
+            <div id="chartOutput"></div>
+        </div>
+    </div>
+
+    <script>
+        async function generateContent() {
+            const city = document.getElementById('city').value;
+            const category = document.getElementById('category').value;
+            const contentOutput = document.getElementById('contentOutput');
+            const chartOutput = document.getElementById('chartOutput');
+
+            contentOutput.innerHTML = 'Loading...';
+            chartOutput.innerHTML = '';
+
+            // Replace with your actual Firebase Function URL or local emulator URL
+            // For local emulator: http://127.0.0.1:5001/YOUR_PROJECT_ID/us-central1/getPageMetadata
+            // For deployed function: https://us-central1-YOUR_PROJECT_ID.cloudfunctions.net/getPageMetadata
+            const firebaseFunctionUrl = 'http://127.0.0.1:5001/fourth-outpost-470409-u3/us-central1/getPageMetadata'; // Placeholder
+
+            const pageId = 'blogPage'; // Example pageId
+            const contactHash = 'exampleContactHash'; // Example contactHash - in a real app, this would come from user session/context
+
+            const contentArray = [
+                { id: 'blogTitle', string: 'Top Blog Post Ideas for {{contact.raw_contact.city}} {{contact.category}} Businesses' },
+                { id: 'introParagraph', string: 'In {{contact.raw_contact.city}}, {{contact.category}} businesses are always looking for ways to stand out. With an average of {{dataUsaKeyPoints.data.population}} residents, there\'s a huge potential audience. Let\'s explore some content strategies.' },
+                { id: 'seoImpact', string: 'Implementing a consistent blog strategy can significantly boost your SEO. Research shows that adding {{blogBenchmarks.recommendedBlogsPerMonth}} posts per month can lead to approximately {{blogBenchmarks.seoImpactPercent}}% more traffic.' }
+            ];
+
+            const chartsRequest = [
+                { chartId: 'blogBenchmarksChart', type: 'blog_benchmarks', city: city, category: category }
+            ];
+
+            try {
+                const response = await fetch(firebaseFunctionUrl, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        data: {
+                            pageId: pageId,
+                            contactHash: contactHash,
+                            contentArray: contentArray,
+                            chartsRequest: chartsRequest
+                        }
+                    }),
+                });
+
+                if (!response.ok) {
+                    const errorData = await response.json();
+                    throw new Error(`HTTP error! status: ${response.status}, message: ${errorData.error.message}`);
+                }
+
+                const result = await response.json();
+                const data = result.result; // Firebase functions return result in 'result' field
+
+                contentOutput.innerHTML = '';
+                if (data.content && data.content.length > 0) {
+                    data.content.forEach(item => {
+                        const div = document.createElement('div');
+                        div.className = 'result-item';
+                        div.innerHTML = `<strong>${item.id}:</strong> ${item.resolvedString}`;
+                        contentOutput.appendChild(div);
+                    });
+                } else {
+                    contentOutput.innerHTML = '<p>No content generated.</p>';
+                }
+
+                if (data.charts && data.charts.length > 0) {
+                    data.charts.forEach(chart => {
+                        const div = document.createElement('div');
+                        div.className = 'chart-container';
+                        if (chart.type === 'blog_benchmarks') {
+                            div.innerHTML = `
+                                <h3>${chart.title || chart.chartId}</h3>
+                                <p><strong>SMB Avg Blogs Per Month:</strong> ${chart.data.smbAvgBlogsPerMonth}</p>
+                                <p><strong>Industry Avg Blogs Per Month:</strong> ${chart.data.industryAvgBlogsPerMonth}</p>
+                                <p><strong>Recommended Blogs Per Month:</strong> ${chart.data.recommendedBlogsPerMonth}</p>
+                                <p><strong>SEO Impact Percent:</strong> ${chart.data.seoImpactPercent}%</p>
+                            `;
+                        } else {
+                            div.innerHTML = `<h3>${chart.title || chart.chartId}</h3><pre class="chart-data">${JSON.stringify(chart.data, null, 2)}</pre>`;
+                        }
+                        chartOutput.appendChild(div);
+                    });
+                } else {
+                    chartOutput.innerHTML = '<p>No chart data generated.</p>';
+                }
+
+            } catch (error) {
+                console.error('Error generating content:', error);
+                contentOutput.innerHTML = `<p style="color: red;">Error: ${error.message}. Please check the console for more details and ensure the Firebase function is deployed and accessible.</p>`;
+            }
+        }
+    </script>
+</body>
+</html>

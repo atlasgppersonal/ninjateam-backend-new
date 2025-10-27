@@ -1,0 +1,1794 @@
+{
+  "id": "1",
+  "result": {
+    "data": [
+      {
+        "keyword": "plumbing companies orlando fl",
+        "region_queries_count": 390,
+        "cost": 11.35,
+        "concurrency": 76,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "also_asks",
+          "pic",
+          "related_search",
+          "local_pack",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 15,
+        "difficulty": 39
+      },
+      {
+        "keyword": "plumbing company in orlando",
+        "region_queries_count": 390,
+        "cost": 11.35,
+        "concurrency": 76,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "also_asks",
+          "related_search",
+          "local_pack",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 15,
+        "difficulty": 39
+      },
+      {
+        "keyword": "plumbing in orlando",
+        "region_queries_count": 4400,
+        "cost": 20.12,
+        "concurrency": 55,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "related_search",
+          "local_pack",
+          "also_asks",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 15,
+        "difficulty": 38
+      },
+      {
+        "keyword": "plumbing orlando fl",
+        "region_queries_count": 4400,
+        "cost": 19,
+        "concurrency": 61,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "local_pack",
+          "related_search",
+          "pic",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 15,
+        "difficulty": 35
+      },
+      {
+        "keyword": "plumbing companies in orlando fl",
+        "region_queries_count": 390,
+        "cost": 11.35,
+        "concurrency": 76,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "local_pack",
+          "also_asks",
+          "related_search",
+          "pic",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 14,
+        "difficulty": 39
+      },
+      {
+        "keyword": "plumbing company orlando fl",
+        "region_queries_count": 390,
+        "cost": 11.35,
+        "concurrency": 76,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "related_search",
+          "local_pack",
+          "pic",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 14,
+        "difficulty": 39
+      },
+      {
+        "keyword": "plumbing contractors orlando fl",
+        "region_queries_count": 50,
+        "cost": 0,
+        "concurrency": 20,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "related_search",
+          "local_pack",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 14,
+        "difficulty": 39
+      },
+      {
+        "keyword": "plumbing in orlando fl",
+        "region_queries_count": 4400,
+        "cost": 20.12,
+        "concurrency": 55,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "local_pack",
+          "related_search",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 14,
+        "difficulty": 39
+      },
+      {
+        "keyword": "plumbing in orlando florida",
+        "region_queries_count": 4400,
+        "cost": 20.12,
+        "concurrency": 55,
+        "geo_names": [
+          "florida",
+          "orlando"
+        ],
+        "types": [
+          "local_pack",
+          "related_search",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 14,
+        "difficulty": 35
+      },
+      {
+        "keyword": "plumbing orlando florida",
+        "region_queries_count": 4400,
+        "cost": 20.12,
+        "concurrency": 55,
+        "geo_names": [
+          "orlando",
+          "florida"
+        ],
+        "types": [
+          "local_pack",
+          "also_asks",
+          "related_search",
+          "pic",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 14,
+        "difficulty": 39
+      },
+      {
+        "keyword": "orlando fl plumber",
+        "region_queries_count": 4400,
+        "cost": 20.12,
+        "concurrency": 55,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "local_pack",
+          "also_asks",
+          "related_search",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 13,
+        "difficulty": 39
+      },
+      {
+        "keyword": "orlando florida plumbers",
+        "region_queries_count": 4400,
+        "cost": 20.12,
+        "concurrency": 55,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "local_pack",
+          "related_search",
+          "also_asks",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 13,
+        "difficulty": 39
+      },
+      {
+        "keyword": "orlando plumbing",
+        "region_queries_count": 4400,
+        "cost": 20.12,
+        "concurrency": 55,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "pic",
+          "local_pack",
+          "related_search",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 13,
+        "difficulty": 31
+      },
+      {
+        "keyword": "orlando plumbing companies",
+        "region_queries_count": 390,
+        "cost": 11.35,
+        "concurrency": 76,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "related_search",
+          "local_pack",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 13,
+        "difficulty": 38
+      },
+      {
+        "keyword": "plumber in orlando fl",
+        "region_queries_count": 4400,
+        "cost": 20.10883801899132,
+        "concurrency": 55,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "related_search",
+          "local_pack",
+          "also_asks",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 13,
+        "difficulty": 39
+      },
+      {
+        "keyword": "plumbers in orlando fl",
+        "region_queries_count": 4400,
+        "cost": 20.12,
+        "concurrency": 55,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "local_pack",
+          "related_search",
+          "also_asks",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 13,
+        "difficulty": 34
+      },
+      {
+        "keyword": "plumbers in orlando florida",
+        "region_queries_count": 4400,
+        "cost": 20.12,
+        "concurrency": 55,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "local_pack",
+          "related_search",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 13,
+        "difficulty": 39
+      },
+      {
+        "keyword": "plumbers near orlando fl",
+        "region_queries_count": 90,
+        "cost": 14.11,
+        "concurrency": 98,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "related_search",
+          "local_pack",
+          "also_asks",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 13,
+        "difficulty": 39
+      },
+      {
+        "keyword": "plumbers orlando",
+        "region_queries_count": 4400,
+        "cost": 20.12,
+        "concurrency": 55,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "related_search",
+          "local_pack",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 13,
+        "difficulty": 39
+      },
+      {
+        "keyword": "plumbers orlando florida",
+        "region_queries_count": 4400,
+        "cost": 19,
+        "concurrency": 61,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "local_pack",
+          "also_asks",
+          "related_search",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 13,
+        "difficulty": 39
+      },
+      {
+        "keyword": "plumbing companies orlando florida",
+        "region_queries_count": 390,
+        "cost": 11.35,
+        "concurrency": 76,
+        "geo_names": [
+          "orlando",
+          "florida"
+        ],
+        "types": [
+          "local_pack",
+          "pic",
+          "related_search",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 13,
+        "difficulty": 39
+      },
+      {
+        "keyword": "plumbing contractor orlando florida",
+        "region_queries_count": 50,
+        "cost": 0,
+        "concurrency": 20,
+        "geo_names": [
+          "orlando",
+          "florida"
+        ],
+        "types": [
+          "related_search",
+          "local_pack",
+          "also_asks",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 13,
+        "difficulty": 39
+      },
+      {
+        "keyword": "orlando fl plumbers",
+        "region_queries_count": 4400,
+        "cost": 20.12,
+        "concurrency": 55,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "local_pack",
+          "related_search",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 12,
+        "difficulty": 38
+      },
+      {
+        "keyword": "orlando plumbers",
+        "region_queries_count": 4400,
+        "cost": 20.12,
+        "concurrency": 55,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "pic",
+          "related_search",
+          "local_pack",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 12,
+        "difficulty": 39
+      },
+      {
+        "keyword": "plumber orlando fl",
+        "region_queries_count": 4400,
+        "cost": 20.12,
+        "concurrency": 55,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "related_search",
+          "local_pack",
+          "also_asks",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 12,
+        "difficulty": 39
+      },
+      {
+        "keyword": "plumber orlando florida",
+        "region_queries_count": 4400,
+        "cost": 20.12,
+        "concurrency": 55,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "local_pack",
+          "related_search",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 12,
+        "difficulty": 39
+      },
+      {
+        "keyword": "plumbers in orlando",
+        "region_queries_count": 4400,
+        "cost": 20.12,
+        "concurrency": 55,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "also_asks",
+          "related_search",
+          "local_pack",
+          "pic",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 12,
+        "difficulty": 35
+      },
+      {
+        "keyword": "plumbing companies in orlando",
+        "region_queries_count": 390,
+        "cost": 11.35,
+        "concurrency": 76,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "local_pack",
+          "related_search",
+          "pic",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 12,
+        "difficulty": 38
+      },
+      {
+        "keyword": "plumbing companies orlando",
+        "region_queries_count": 390,
+        "cost": 11.35,
+        "concurrency": 76,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "pic",
+          "local_pack",
+          "related_search",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 12,
+        "difficulty": 38
+      },
+      {
+        "keyword": "plumbing service orlando",
+        "region_queries_count": 260,
+        "cost": 33.28695829788465,
+        "concurrency": 57,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "also_asks",
+          "local_pack",
+          "related_search",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 12,
+        "difficulty": 39
+      },
+      {
+        "keyword": "plumbing services orlando",
+        "region_queries_count": 260,
+        "cost": 10.3,
+        "concurrency": 47,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "related_search",
+          "local_pack",
+          "pic",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 12,
+        "difficulty": 38
+      },
+      {
+        "keyword": "plumber in orlando florida",
+        "region_queries_count": 4400,
+        "cost": 20.12,
+        "concurrency": 55,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "also_asks",
+          "related_search",
+          "local_pack",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 11,
+        "difficulty": 39
+      },
+      {
+        "keyword": "plumber orlando",
+        "region_queries_count": 4400,
+        "cost": 20.12,
+        "concurrency": 55,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "local_pack",
+          "related_search",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 11,
+        "difficulty": 39
+      },
+      {
+        "keyword": "orlando plumber",
+        "region_queries_count": 4400,
+        "cost": 20.12,
+        "concurrency": 55,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "related_search",
+          "local_pack",
+          "pic",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 10,
+        "difficulty": 39
+      },
+      {
+        "keyword": "orlando plumbing service",
+        "region_queries_count": 260,
+        "cost": 16.620001,
+        "concurrency": 47,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "related_search",
+          "local_pack",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 10,
+        "difficulty": 35
+      },
+      {
+        "keyword": "plumber in orlando",
+        "region_queries_count": 4400,
+        "cost": 20.11311996193127,
+        "concurrency": 55,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "also_asks",
+          "related_search",
+          "local_pack",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 10,
+        "difficulty": 38
+      },
+      {
+        "keyword": "plumbing services in orlando fl",
+        "region_queries_count": 260,
+        "cost": 11.76,
+        "concurrency": 59,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "also_asks",
+          "local_pack",
+          "related_search",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 10,
+        "difficulty": 39
+      },
+      {
+        "keyword": "orlando plumbing company",
+        "region_queries_count": 390,
+        "cost": 11.35,
+        "concurrency": 76,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "pic",
+          "also_asks",
+          "related_search",
+          "local_pack",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 9,
+        "difficulty": 26
+      },
+      {
+        "keyword": "orlando plumbing contractor",
+        "region_queries_count": 10,
+        "cost": 0,
+        "concurrency": 7,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "local_pack",
+          "related_search",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 9,
+        "difficulty": 39
+      },
+      {
+        "keyword": "orlando plumbing contractors",
+        "region_queries_count": 20,
+        "cost": 0,
+        "concurrency": 96,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "local_pack",
+          "related_search",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 9,
+        "difficulty": 39
+      },
+      {
+        "keyword": "plumbing companies in orlando florida",
+        "region_queries_count": 390,
+        "cost": 11.35,
+        "concurrency": 76,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "also_asks",
+          "related_search",
+          "local_pack",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 9,
+        "difficulty": 39
+      },
+      {
+        "keyword": "plumbing contractor orlando",
+        "region_queries_count": 50,
+        "cost": 0,
+        "concurrency": 6,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "pic",
+          "related_search",
+          "local_pack",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 9,
+        "difficulty": 38
+      },
+      {
+        "keyword": "plumbing contractor orlando fl",
+        "region_queries_count": 70,
+        "cost": 30.053446961164035,
+        "concurrency": 37,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "local_pack",
+          "related_search",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 9,
+        "difficulty": 39
+      },
+      {
+        "keyword": "plumbing contractors orlando",
+        "region_queries_count": 10,
+        "cost": 24.25,
+        "concurrency": 49,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "related_search",
+          "local_pack",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 9,
+        "difficulty": 35
+      },
+      {
+        "keyword": "plumbing contractors orlando florida",
+        "region_queries_count": 50,
+        "cost": 0,
+        "concurrency": 3,
+        "geo_names": [
+          "florida",
+          "orlando"
+        ],
+        "types": [
+          "also_asks",
+          "related_search",
+          "local_pack",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 9,
+        "difficulty": 39
+      },
+      {
+        "keyword": "plumbing services in orlando",
+        "region_queries_count": 260,
+        "cost": 16.700001,
+        "concurrency": 51,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "local_pack",
+          "related_search",
+          "pic",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 9,
+        "difficulty": 39
+      },
+      {
+        "keyword": "plumbing services orlando fl",
+        "region_queries_count": 260,
+        "cost": 11.43,
+        "concurrency": 56,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "related_search",
+          "local_pack",
+          "also_asks",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 9,
+        "difficulty": 39
+      },
+      {
+        "keyword": "orlando plumbing repair",
+        "region_queries_count": 110,
+        "cost": 0,
+        "concurrency": 1,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "related_search",
+          "local_pack",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 8,
+        "difficulty": 38
+      },
+      {
+        "keyword": "orlando plumbing services",
+        "region_queries_count": 260,
+        "cost": 33.3,
+        "concurrency": 57,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "local_pack",
+          "related_search",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 8,
+        "difficulty": 34
+      },
+      {
+        "keyword": "plumbing company orlando",
+        "region_queries_count": 390,
+        "cost": 11,
+        "concurrency": 87,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "related_search",
+          "local_pack",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 8,
+        "difficulty": 38
+      },
+      {
+        "keyword": "plumbing contractors in orlando fl",
+        "region_queries_count": 50,
+        "cost": 0,
+        "concurrency": 3,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "related_search",
+          "also_asks",
+          "local_pack",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 8,
+        "difficulty": 35
+      },
+      {
+        "keyword": "plumbing repair orlando",
+        "region_queries_count": 90,
+        "cost": 0,
+        "concurrency": 11,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "local_pack",
+          "related_search",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 8,
+        "difficulty": 33
+      },
+      {
+        "keyword": "best plumbers in orlando",
+        "region_queries_count": 30,
+        "cost": 0,
+        "concurrency": 62,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "related_search",
+          "also_asks",
+          "local_pack",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 7,
+        "difficulty": 28
+      },
+      {
+        "keyword": "central florida plumbers",
+        "region_queries_count": 90,
+        "cost": 11.27,
+        "concurrency": 52,
+        "geo_names": [
+          "florida"
+        ],
+        "types": [
+          "related_search",
+          "local_pack",
+          "pic",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 7,
+        "difficulty": 4
+      },
+      {
+        "keyword": "commercial plumbers orlando",
+        "region_queries_count": 210,
+        "cost": 7.29,
+        "concurrency": 68,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "related_search",
+          "local_pack",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 7,
+        "difficulty": 9
+      },
+      {
+        "keyword": "plummer orlando",
+        "region_queries_count": 30,
+        "cost": 15.575283,
+        "concurrency": 97,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "related_search",
+          "pic",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 7,
+        "difficulty": 33
+      },
+      {
+        "keyword": "best orlando plumbers",
+        "region_queries_count": 30,
+        "cost": 0,
+        "concurrency": 62,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "also_asks",
+          "local_pack",
+          "related_search",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 6,
+        "difficulty": 21
+      },
+      {
+        "keyword": "cheap plumber orlando",
+        "region_queries_count": 30,
+        "cost": 0,
+        "concurrency": 31,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "related_search",
+          "local_pack",
+          "also_asks",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 6,
+        "difficulty": 30
+      },
+      {
+        "keyword": "commercial plumbing orlando fl",
+        "region_queries_count": 30,
+        "cost": 0,
+        "concurrency": 40,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "related_search",
+          "local_pack",
+          "pic",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 6,
+        "difficulty": 5
+      },
+      {
+        "keyword": "orlando commercial plumbers",
+        "region_queries_count": 170,
+        "cost": 14.82,
+        "concurrency": 74,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "local_pack",
+          "related_search",
+          "also_asks",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 6,
+        "difficulty": 9
+      },
+      {
+        "keyword": "plumbers fl",
+        "region_queries_count": 170,
+        "cost": 7.94,
+        "concurrency": 26,
+        "geo_names": [],
+        "types": [
+          "local_pack",
+          "also_asks",
+          "related_search",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 6,
+        "difficulty": 19
+      },
+      {
+        "keyword": "plumbing companies in florida",
+        "region_queries_count": 320,
+        "cost": 4.01,
+        "concurrency": 13,
+        "geo_names": [
+          "florida"
+        ],
+        "types": [
+          "local_pack",
+          "pic",
+          "related_search",
+          "ads_bot",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 6,
+        "difficulty": 16
+      },
+      {
+        "keyword": "emergency plumbing orlando",
+        "region_queries_count": 480,
+        "cost": 30,
+        "concurrency": 49,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "local_pack",
+          "also_asks",
+          "related_search",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 5,
+        "difficulty": 11
+      },
+      {
+        "keyword": "florida plumbing company",
+        "region_queries_count": 260,
+        "cost": 4.179999,
+        "concurrency": 29,
+        "geo_names": [
+          "florida"
+        ],
+        "types": [
+          "local_pack",
+          "also_asks",
+          "related_search",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 5,
+        "difficulty": 4
+      },
+      {
+        "keyword": "plumbing companies florida",
+        "region_queries_count": 320,
+        "cost": 4.48,
+        "concurrency": 30,
+        "geo_names": [
+          "florida"
+        ],
+        "types": [
+          "also_asks",
+          "related_search",
+          "ads_bot",
+          "local_pack",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 5,
+        "difficulty": 12
+      },
+      {
+        "keyword": "plumbing in florida",
+        "region_queries_count": 590,
+        "cost": 5.2,
+        "concurrency": 19,
+        "geo_names": [
+          "florida"
+        ],
+        "types": [
+          "related_search",
+          "also_asks",
+          "local_pack",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 5,
+        "difficulty": 16
+      },
+      {
+        "keyword": "best plumbers orlando",
+        "region_queries_count": 110,
+        "cost": 17.96,
+        "concurrency": 69,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "local_pack",
+          "related_search",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 4,
+        "difficulty": 3
+      },
+      {
+        "keyword": "central florida plumbing",
+        "region_queries_count": 90,
+        "cost": 15.610000000000001,
+        "concurrency": 46,
+        "geo_names": [
+          "florida"
+        ],
+        "types": [
+          "related_search",
+          "local_pack",
+          "pic",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 4,
+        "difficulty": 3
+      },
+      {
+        "keyword": "commercial plumbing contractors orlando fl",
+        "region_queries_count": 20,
+        "cost": 0,
+        "concurrency": 85,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "ads_bot",
+          "related_search",
+          "local_pack",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 4,
+        "difficulty": 5
+      },
+      {
+        "keyword": "emergency plumber orlando",
+        "region_queries_count": 320,
+        "cost": 29.44,
+        "concurrency": 86,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "also_asks",
+          "ads_top",
+          "local_pack",
+          "related_search",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 4,
+        "difficulty": 25
+      },
+      {
+        "keyword": "emergency plumber orlando fl",
+        "region_queries_count": 480,
+        "cost": 30.000000000000004,
+        "concurrency": 49,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "also_asks",
+          "ai_overview",
+          "related_search",
+          "local_pack",
+          "snip_breadcrumbs",
+          "snip_fqdn_in_aio"
+        ],
+        "right_spelling": null,
+        "weight": 4,
+        "difficulty": null
+      },
+      {
+        "keyword": "orlando emergency plumber",
+        "region_queries_count": 480,
+        "cost": 30,
+        "concurrency": 49,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "related_search",
+          "local_pack",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 4,
+        "difficulty": 14
+      },
+      {
+        "keyword": "orlando emergency plumbers",
+        "region_queries_count": 480,
+        "cost": 29.999999999999996,
+        "concurrency": 49,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "related_search",
+          "local_pack",
+          "also_asks",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 4,
+        "difficulty": 12
+      },
+      {
+        "keyword": "orlando plumber free estimate",
+        "region_queries_count": 170,
+        "cost": 13.120000000000001,
+        "concurrency": 85,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "related_search",
+          "also_asks",
+          "local_pack",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 4,
+        "difficulty": 10
+      },
+      {
+        "keyword": "plumber florida",
+        "region_queries_count": 590,
+        "cost": 4.12,
+        "concurrency": 19,
+        "geo_names": [
+          "florida"
+        ],
+        "types": [
+          "ads_bot",
+          "related_search",
+          "ads_top",
+          "local_pack",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 4,
+        "difficulty": 13
+      },
+      {
+        "keyword": "plumber in kissimmee fl",
+        "region_queries_count": 720,
+        "cost": 21.39,
+        "concurrency": 74,
+        "geo_names": [],
+        "types": [
+          "related_search",
+          "local_pack",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 4,
+        "difficulty": 21
+      },
+      {
+        "keyword": "plumbing florida",
+        "region_queries_count": 590,
+        "cost": 4.12,
+        "concurrency": 19,
+        "geo_names": [
+          "florida"
+        ],
+        "types": [
+          "related_search",
+          "local_pack",
+          "also_asks",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 4,
+        "difficulty": 18
+      },
+      {
+        "keyword": "plumbing services in florida",
+        "region_queries_count": 70,
+        "cost": 3.2400000000000007,
+        "concurrency": 24,
+        "geo_names": [
+          "florida"
+        ],
+        "types": [
+          "also_asks",
+          "ads_bot",
+          "ads_top",
+          "local_pack",
+          "related_search",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 4,
+        "difficulty": null
+      },
+      {
+        "keyword": "all about plumbing of orlando",
+        "region_queries_count": 90,
+        "cost": 3.8,
+        "concurrency": 14,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "pic",
+          "kn_graph_local",
+          "also_asks",
+          "related_search",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 3,
+        "difficulty": 2
+      },
+      {
+        "keyword": "best plumbing orlando",
+        "region_queries_count": 140,
+        "cost": 16.76,
+        "concurrency": 74,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "also_asks",
+          "local_pack",
+          "related_search",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 3,
+        "difficulty": null
+      },
+      {
+        "keyword": "emergency plumbers orlando",
+        "region_queries_count": 480,
+        "cost": 36.27,
+        "concurrency": 69,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "pic",
+          "related_search",
+          "local_pack",
+          "also_asks",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 3,
+        "difficulty": 14
+      },
+      {
+        "keyword": "fl plumbing",
+        "region_queries_count": 170,
+        "cost": 7.94,
+        "concurrency": 26,
+        "geo_names": [],
+        "types": [
+          "local_pack",
+          "also_asks",
+          "related_search",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 3,
+        "difficulty": 17
+      },
+      {
+        "keyword": "florida plumbing companies",
+        "region_queries_count": 320,
+        "cost": 4.01,
+        "concurrency": 13,
+        "geo_names": [
+          "florida"
+        ],
+        "types": [
+          "also_asks",
+          "related_search",
+          "local_pack",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 3,
+        "difficulty": 9
+      },
+      {
+        "keyword": "florida plumbing contractors",
+        "region_queries_count": 30,
+        "cost": 0,
+        "concurrency": 21,
+        "geo_names": [
+          "florida"
+        ],
+        "types": [
+          "also_asks",
+          "related_search",
+          "local_pack",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 3,
+        "difficulty": 9
+      },
+      {
+        "keyword": "plumbers florida",
+        "region_queries_count": 590,
+        "cost": 4.303104146763686,
+        "concurrency": 15,
+        "geo_names": [
+          "florida"
+        ],
+        "types": [
+          "also_asks",
+          "related_search",
+          "local_pack",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 3,
+        "difficulty": 11
+      },
+      {
+        "keyword": "plumbers in florida",
+        "region_queries_count": 590,
+        "cost": 4.12,
+        "concurrency": 19,
+        "geo_names": [
+          "florida"
+        ],
+        "types": [
+          "local_pack",
+          "related_search",
+          "pic",
+          "also_asks",
+          "ads_bot",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 3,
+        "difficulty": 9
+      },
+      {
+        "keyword": "plumbers in kissimmee fl",
+        "region_queries_count": 720,
+        "cost": 21.39,
+        "concurrency": 74,
+        "geo_names": [],
+        "types": [
+          "related_search",
+          "pic",
+          "local_pack",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 3,
+        "difficulty": 21
+      },
+      {
+        "keyword": "plumbing contractors in florida",
+        "region_queries_count": 30,
+        "cost": 0,
+        "concurrency": 8,
+        "geo_names": [
+          "florida"
+        ],
+        "types": [
+          "related_search",
+          "also_asks",
+          "local_pack",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 3,
+        "difficulty": 14
+      },
+      {
+        "keyword": "all about plumbing orlando",
+        "region_queries_count": 90,
+        "cost": 3.8,
+        "concurrency": 14,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "kn_graph_local",
+          "related_search",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 2,
+        "difficulty": 2
+      },
+      {
+        "keyword": "altamonte springs plumber",
+        "region_queries_count": 210,
+        "cost": 26.839999999999996,
+        "concurrency": 72,
+        "geo_names": [],
+        "types": [
+          "pic",
+          "also_asks",
+          "local_pack",
+          "related_search",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 2,
+        "difficulty": 5
+      },
+      {
+        "keyword": "apopka plumbers",
+        "region_queries_count": 390,
+        "cost": 18.81,
+        "concurrency": 89,
+        "geo_names": [],
+        "types": [
+          "pic",
+          "related_search",
+          "local_pack",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 2,
+        "difficulty": 17
+      },
+      {
+        "keyword": "apopka plumbing",
+        "region_queries_count": 390,
+        "cost": 24.1,
+        "concurrency": 80,
+        "geo_names": [],
+        "types": [
+          "related_search",
+          "local_pack",
+          "pic",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 2,
+        "difficulty": 19
+      },
+      {
+        "keyword": "emerald plumbing orlando",
+        "region_queries_count": 140,
+        "cost": 5.58,
+        "concurrency": 23,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "related_search",
+          "pic",
+          "kn_graph_local",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 2,
+        "difficulty": 6
+      },
+      {
+        "keyword": "emerald plumbing orlando florida",
+        "region_queries_count": 140,
+        "cost": 5.58,
+        "concurrency": 23,
+        "geo_names": [
+          "florida",
+          "orlando"
+        ],
+        "types": [
+          "ads_bot",
+          "kn_graph_local",
+          "pic",
+          "related_search",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 2,
+        "difficulty": 4
+      },
+      {
+        "keyword": "f l plumbing",
+        "region_queries_count": 170,
+        "cost": 8.775,
+        "concurrency": 21,
+        "geo_names": [],
+        "types": [
+          "video",
+          "related_search",
+          "local_pack",
+          "also_asks",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 2,
+        "difficulty": 13
+      },
+      {
+        "keyword": "herrell plumbing orlando",
+        "region_queries_count": 50,
+        "cost": 7.03,
+        "concurrency": 38,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "kn_graph_local",
+          "related_search",
+          "pic",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 2,
+        "difficulty": null
+      },
+      {
+        "keyword": "large plumbing companies",
+        "region_queries_count": 390,
+        "cost": 226.63882499999997,
+        "concurrency": 57,
+        "geo_names": [],
+        "types": [
+          "related_search",
+          "also_asks",
+          "local_pack",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 2,
+        "difficulty": 7
+      },
+      {
+        "keyword": "longwood plumbing",
+        "region_queries_count": 210,
+        "cost": 19.45,
+        "concurrency": 75,
+        "geo_names": [],
+        "types": [
+          "ai_overview",
+          "pic",
+          "also_asks",
+          "related_search",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 2,
+        "difficulty": 8
+      },
+      {
+        "keyword": "major plumbing companies",
+        "region_queries_count": 50,
+        "cost": 4.53,
+        "concurrency": 74,
+        "geo_names": [],
+        "types": [
+          "related_search",
+          "also_asks",
+          "local_pack",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 2,
+        "difficulty": 7
+      },
+      {
+        "keyword": "mercury plumbing orlando",
+        "region_queries_count": 20,
+        "cost": 6.8974950757236195,
+        "concurrency": 34,
+        "geo_names": [
+          "orlando"
+        ],
+        "types": [
+          "related_search",
+          "pic",
+          "also_asks",
+          "kn_graph_local",
+          "snip_breadcrumbs"
+        ],
+        "right_spelling": null,
+        "weight": 2,
+        "difficulty": 4
+      }
+    ],
+    "summary_info": {
+      "page": 1,
+      "total": 448,
+      "left_lines": 900
+    }
+  }
+}

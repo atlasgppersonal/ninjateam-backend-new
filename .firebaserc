@@ -1,0 +1,13 @@
+{
+  "projects": {
+    "default": "fourth-outpost-470409-u3",
+    "prod": "fourth-outpost-470409-u3",
+    "staging": "fourth-outpost-470409-u3"
+  },
+  "targets": {},
+  "etags": {
+    "fourth-outpost-470409-u3": {
+      "extensionInstances": {}
+    }
+  }
+}
