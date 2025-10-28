@@ -288,6 +288,8 @@ export const getPageMetadata = functions.https.onCall(
       const PROMPT = `
         You are a data resolver and content cleaner. Your primary task is to replace variables in the provided strings with values from the given data objects, apply fallbacks, and ensure the resulting sentences are grammatically correct and human-readable.
 
+        Specifically, for the variable '{{contact.raw_contact.name}}', if 'contact.raw_contact.name_confidence' is less than or equal to 0.7, replace 'Hi {{contact.raw_contact.name}},' with 'Hello,'. Otherwise, use the provided name.
+
         CRITICAL: Your response MUST be a single, valid JSON array. All string values within the JSON MUST be properly escaped. Do NOT include any additional text or formatting outside of the JSON array.
 
         **Input Data:**
